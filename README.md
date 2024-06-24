@@ -2,7 +2,7 @@
 ![randoneering_logo_main](https://github.com/randoneering/randoneering/assets/127273550/13007a8f-6010-49b2-aae2-c86159d921c5)
 
 
-## Hey there! 🤘🏻🧘🏻‍♂️
+## Hey there! 🤘🏻🧘🏻‍♂️🏳️‍🌈
 
 My name is Justin (Randoneering)! I have too many hobbies, love the outdoors, constantly tinkering, and a family man. 
 
