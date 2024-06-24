@@ -2,10 +2,8 @@
 
 My name is Justin (Randoneering)! I have too many hobbies, love the outdoors, constantly tinkering, and a family man. 
 
-## Socials:
+## Website:
 https://randoneering.tech/
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?link=https://hostux.social/@Randoneering@fosstodon.org&style=for-the-badge&logo=mastodon&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## Tools/Applications I use:
 
