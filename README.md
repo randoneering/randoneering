@@ -4,7 +4,9 @@
 
 ## Hey there! 🤘🏻🧘🏻‍♂️🏳️‍🌈
 
-My name is Justin (Randoneering)! I have too many hobbies, love the outdoors, constantly tinkering, and a family man. 
+My name is Justin (Randoneering TM)! I have too many hobbies, love the outdoors, homelabbing, constantly tinkering, and a family man. 
+
+Currently, I am a Database Administrator (sudo DBRE) working for RxBenefits, Inc.
 
 ## Website:
 https://randoneering.tech/
