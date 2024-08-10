@@ -6,7 +6,7 @@
 
 My name is Justin (Randoneering TM)! I have too many hobbies, love the outdoors, homelabbing, constantly tinkering, and a family man. 
 
-Currently, I am a Database Administrator (sudo DBRE) working for RxBenefits, Inc.
+Currently, I am a Senior Database Engineer (DBRE) working for RxBenefits, Inc.
 
 ## Website:
 https://randoneering.tech/
