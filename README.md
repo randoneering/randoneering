@@ -4,9 +4,9 @@
 
 ## Oh! Hey! I didn't see you there... 🤘🏻🧘🏻‍♂️🏳️‍🌈
 
-My name is Justin (Randoneering TM)! I have too many hobbies, love the outdoors, homelabbing, constantly tinkering, and a family man. 
+My name is Justin (Randoneering TM)! I have too many hobbies, love the outdoors, preaching the good word about opensource, homelabbing, constantly tinkering, and a family man. 
 
-Currently, I am a Senior Database Engineer (DBRE) working for RxBenefits, Inc.
+Currently, I am a Senior Database Engineer working for RxBenefits, Inc.
 
 ## Website:
 https://randoneering.tech/
@@ -15,15 +15,19 @@ https://www.linkedin.com/in/justin-frye-b4b14763/
 ## Tools/Applications I use:
 
 ### Daily Drivers
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) - Main
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) - Main/Tinkering
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) - Work
 
 ### Previous Linux Distros
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Tools/Software
+
+![Dbeaver]
 
 ## Skils:
 
