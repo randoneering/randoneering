@@ -27,7 +27,7 @@ https://www.linkedin.com/in/justin-frye-b4b14763/
 
 ### Tools/Software
 
-![Dbeaver]
+In Progress....
 
 ## Skils:
 
