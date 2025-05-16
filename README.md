@@ -2,7 +2,7 @@
 ![randoneering_logo_main](https://github.com/randoneering/randoneering/assets/127273550/13007a8f-6010-49b2-aae2-c86159d921c5)
 
 
-## Oh! Hey! I didn't see you there... 🤘🏻🧘🏻‍♂️🏳️‍🌈
+## Oh! Hey! I didn't see you there... 🤘🏻🧘🏻‍♂️🏳️‍🌈🐘
 
 My name is Justin (Randoneering TM)! I have too many hobbies, love the outdoors, preaching the good word about opensource, homelabbing, constantly tinkering, and a family man. 
 
@@ -74,20 +74,3 @@ https://www.linkedin.com/in/justin-frye-b4b14763/
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
-
-
-<!--
-**randoneering/randoneering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
