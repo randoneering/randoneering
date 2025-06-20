@@ -87,7 +87,7 @@ passions:
 
 [![Website](https://img.shields.io/badge/🌍_randoneering.tech-FF79C6?style=for-the-badge&logoColor=white)](https://randoneering.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8BE9FD?style=for-the-badge&logo=linkedin&logoColor=282A36)](https://www.linkedin.com/in/justin-frye-b4b14763/)
-**business@randoneering.tech**
+
 
 </div>
 
