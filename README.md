@@ -1,33 +1,37 @@
+<div align="center">
 
-![randoneering_logo_main](https://github.com/randoneering/randoneering/assets/127273550/13007a8f-6010-49b2-aae2-c86159d921c5)
+# 🦇 Hey there, I'm Justin! 
 
+</div>
 
-## Oh! Hey! I didn't see you there... 🤘🏻🧘🏻‍♂️🏳️‍🌈🐘
+---
 
-My name is Justin (Randoneering TM)! I have too many hobbies, love the outdoors, preaching the good word about opensource, homelabbing, constantly tinkering, and a family man. 
+<div align="center">
 
-Currently, I am a Senior Database Engineer working for RxBenefits, Inc.
+### 🤘🏻 About Me 🏳️‍🌈 
 
-## Website:
-https://randoneering.tech/
-https://www.linkedin.com/in/justin-frye-b4b14763/
+```yaml
+name: "Justin (Randoneering™)"
+role: "Founding Randoneer @ Randoneering, LLC and Senior Database Engineer @ RxBenefits, Inc"
+location: "Gem State"
+passions: 
+  - 🌲 Outdoor adventures
+  - 🐧 Open source evangelism  
+  - 🏠 Homelab
+  - 🔧 Constant tinkering
+  - 👨‍👩‍👧‍👦 Family time
+  - 🏳️‍🌈 Ally
+```
 
-## Tools/Applications I use:
+</div>
 
-### Daily Drivers
+---
+
+<div align="center">
+
+### 💻 Tech Stack
 
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-### Previous Linux Distros
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### What I use (Tools/Socials/Software/FOSS Projects)
-
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Joplin](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white)
@@ -67,10 +71,18 @@ https://www.linkedin.com/in/justin-frye-b4b14763/
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+</div>
 
-### OS
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
+<div align="center">
 
+### 🌐 Connect
+
+[![Website](https://img.shields.io/badge/🌍_randoneering.tech-FF79C6?style=for-the-badge&logoColor=white)](https://randoneering.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8BE9FD?style=for-the-badge&logo=linkedin&logoColor=282A36)](https://www.linkedin.com/in/justin-frye-b4b14763/)
+**business@randoneering.tech**
+
+</div>
+
+---
