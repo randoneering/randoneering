@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦇 Hey there, I'm Justin! 
+# 🦇 Oh, hello there!
 
 </div>
 
@@ -14,6 +14,8 @@
 
 ### 🤘🏻 About Me 🏳️‍🌈 
 
+<div align="left">
+  
 ```yaml
 name: "Justin (Randoneering™)"
 role: "Founding Randoneer @ Randoneering, LLC and Senior Database Engineer @ RxBenefits, Inc"
@@ -26,7 +28,7 @@ passions:
   - 👨‍👩‍👧‍👦 Family time
   - 🏳️‍🌈 Ally
 ```
-
+</div>
 
 
 ---
