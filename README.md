@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://randoneering.tech/images/randoneering_logo_main.jpg" alt="Randoneering Logo" />
+
+
+<div align="center">
 
 # 🦇 Hey there, I'm Justin! 
 
