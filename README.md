@@ -1,7 +1,8 @@
-<div align="center">
-![randoneering_logo_main](https://github.com/user-attachments/assets/6b9c7958-17b5-4df4-8959-ffaaf2af9e44)
-<div align="center">
 
+![randoneering_logo_main](https://github.com/user-attachments/assets/6b9c7958-17b5-4df4-8959-ffaaf2af9e44)
+
+<div align="center">
+  
 # 🦇 Oh, hello there!
 
 </div>
