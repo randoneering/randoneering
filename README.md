@@ -3,9 +3,11 @@
 
 <div align="center">
   
-# 🦇 Oh, hello there!
+# 🦇 Oh, hello there! <img src="https://media.hachyderm.io/custom_emojis/images/000/048/515/static/a76b693d09368634.png" height="35px" width="35px"> </img>
 
 </div>
+
+
 
 ---
 
@@ -24,7 +26,7 @@
 name: "Justin (Randoneering™)"
 role: "Founding Randoneer @ Randoneering, LLC and Senior Database Engineer @ RxBenefits, Inc"
 location: "Gem State"
-passions: 
+passions:
   - 🌲 Outdoor adventures
   - 🐧 Open source evangelism  
   - 🏠 Homelab
