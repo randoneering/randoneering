@@ -37,5 +37,7 @@ passions:
 
 </div>
 
+[![Justin @ Randoneering, LLC GitHub stats](https://github-readme-stats.vercel.app/api?username=randoneering)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
