@@ -1,5 +1,3 @@
-![randoneering_logo_main](https://github.com/user-attachments/assets/6b9c7958-17b5-4df4-8959-ffaaf2af9e44)
-
 ### 🦇 Oh, hello there!
 
 ```yaml
@@ -14,6 +12,8 @@ passions:
   - 👨‍👩‍👧‍👦 Family time
   - 🏳️‍🌈 Ally
 ```
+
+
 [![Justin @ Randoneering, LLC GitHub stats](https://github-readme-stats.vercel.app/api?username=randoneering&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 👷 Check out what I'm currently working on
