@@ -4,8 +4,9 @@
 🦇 Oh, hello there! <img src="https://media.hachyderm.io/custom_emojis/images/000/048/515/static/a76b693d09368634.png" height="15px" width="15px"> </img>
 
 </div>
----
-<div align="center">
+
+<div align="left">
+
 ```yaml
 name: "Justin (Randoneering™)"
 role: "Founding Randoneer @ Randoneering, LLC and Senior Database Engineer @ RxBenefits, Inc"
@@ -18,6 +19,7 @@ passions:
   - 👨‍👩‍👧‍👦 Family time
   - 🏳️‍🌈 Ally
 ```
+
 </div>
 
 [![Justin @ Randoneering, LLC GitHub stats](https://github-readme-stats.vercel.app/api?username=randoneering&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
