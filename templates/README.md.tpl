@@ -1,7 +1,7 @@
 ![randoneering_logo_main](https://github.com/user-attachments/assets/6b9c7958-17b5-4df4-8959-ffaaf2af9e44)
 
 <div align="center">
-### 🦇 Oh, hello there! <img src="https://media.hachyderm.io/custom_emojis/images/000/048/515/static/a76b693d09368634.png" height="35px" width="35px"> </img>
+🦇 Oh, hello there! <img src="https://media.hachyderm.io/custom_emojis/images/000/048/515/static/a76b693d09368634.png" height="15px" width="15px"> </img>
 
 ```yaml
 name: "Justin (Randoneering™)"
