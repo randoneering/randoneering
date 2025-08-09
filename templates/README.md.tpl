@@ -35,12 +35,12 @@ passions:
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### ⭐ My Most Recent Obsessions
+#### ⭐ My most recent obsessions
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 😱 My recent Pull Requests
+#### 😱 My recent pull requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
@@ -50,7 +50,7 @@ passions:
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 💜 Recent Followers
+#### 💜 Recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
