@@ -18,43 +18,44 @@ passions:
   - 🔧 Constant tinkering
   - 👨‍👩‍👧‍👦 Family time
   - 🏳️‍🌈 Ally
+  - 👹 I run NixOS btw
 ```
 
 </div>
 
 [![Justin @ Randoneering, LLC GitHub stats](https://github-readme-stats.vercel.app/api?username=randoneering&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 👷 Check out what I'm currently working on
+#### ☕ Check out what I'm currently working on (probably flakes)
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
+#### 💻 My latest projects (have you seen my flake(s)?)
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### ⭐ Recent Stars
+#### ⭐ My Most Recent Obsessions
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 🔨 My recent Pull Requests
+#### 😱 My recent Pull Requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
+#### 📰 Words I put together to look smart
 {{range rss "https://randoneering.tech/blog/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
+#### 💜 Recent Followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
-#### 📫 How to reach me
+#### ✌️ Contact!
 
 - Fediverse: https://hachyderm.io/@randoneering
 - Blog: https://randoneering.tech
