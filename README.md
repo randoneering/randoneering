@@ -18,13 +18,14 @@ passions:
   - 🔧 Constant tinkering
   - 👨‍👩‍👧‍👦 Family time
   - 🏳️‍🌈 Ally
+  - 👹 I run NixOS btw
 ```
 
 </div>
 
 [![Justin @ Randoneering, LLC GitHub stats](https://github-readme-stats.vercel.app/api?username=randoneering&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 👷 Check out what I'm currently working on
+#### ☕ Check out what I'm currently working on (probably flakes)
 
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 weeks ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (2 weeks ago)
@@ -37,7 +38,7 @@ passions:
 - [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) -  (4 months ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 months ago)
 
-#### 🌱 My latest projects
+#### 💻 My latest projects (have you seen my flake(s)?)
 
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC
@@ -50,7 +51,7 @@ passions:
 - [randoneering/adhoc_pgdumps](https://github.com/randoneering/adhoc_pgdumps) - Powershell Script to run pg_dump(all), gzip, and upload to s3 bucket
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) - 
 
-#### ⭐ Recent Stars
+#### ⭐ My Most Recent Obsessions
 
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (5 days ago)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (1 week ago)
@@ -63,7 +64,7 @@ passions:
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 month ago)
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (1 month ago)
 
-#### 🔨 My recent Pull Requests
+#### 😱 My recent Pull Requests
 
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 months ago)
 - [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
@@ -76,7 +77,7 @@ passions:
 - [Add Performance Insights and Database Insights to rds_cluster.py](https://github.com/ansible-collections/amazon.aws/pull/2543) on [ansible-collections/amazon.aws](https://github.com/ansible-collections/amazon.aws) (5 months ago)
 - [final adjustments, theme.toml](https://github.com/randoneering/hugo-dracula-charlolamode/pull/9) on [randoneering/hugo-dracula-charlolamode](https://github.com/randoneering/hugo-dracula-charlolamode) (6 months ago)
 
-#### 📜 My recent blog posts
+#### 📰 Words I put together to look smart
 
 - [SCALE 22x](/blog/foss/scale22x/) (5 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (6 months ago)
@@ -84,7 +85,7 @@ passions:
 - [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (7 months ago)
 - [Weekly Post (2024-12-26)](/blog/weekly/december262024/) (7 months ago)
 
-#### 👯 Check out some of my recent followers
+#### 💜 Recent Followers
 
 - [eXsoR65](https://github.com/eXsoR65)
 - [j-pap](https://github.com/j-pap)
@@ -92,7 +93,7 @@ passions:
 - [seckinyasar](https://github.com/seckinyasar)
 - [mannmehta0611](https://github.com/mannmehta0611)
 
-#### 📫 How to reach me
+#### ✌️ Contact!
 
 - Fediverse: https://hachyderm.io/@randoneering
 - Blog: https://randoneering.tech
