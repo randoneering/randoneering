@@ -51,7 +51,7 @@ passions:
 - [randoneering/adhoc_pgdumps](https://github.com/randoneering/adhoc_pgdumps) - Powershell Script to run pg_dump(all), gzip, and upload to s3 bucket
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) - 
 
-#### ⭐ My Most Recent Obsessions
+#### ⭐ My most recent obsessions
 
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (5 days ago)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (1 week ago)
@@ -64,7 +64,7 @@ passions:
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 month ago)
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (1 month ago)
 
-#### 😱 My recent Pull Requests
+#### 😱 My recent pull requests
 
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 months ago)
 - [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
@@ -85,7 +85,7 @@ passions:
 - [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (7 months ago)
 - [Weekly Post (2024-12-26)](/blog/weekly/december262024/) (7 months ago)
 
-#### 💜 Recent Followers
+#### 💜 Recent followers
 
 - [eXsoR65](https://github.com/eXsoR65)
 - [j-pap](https://github.com/j-pap)
