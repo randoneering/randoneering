@@ -53,6 +53,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (5 days ago)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (1 week ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
@@ -62,7 +63,6 @@ passions:
 - [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja (1 month ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 month ago)
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 month ago)
-- [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox (1 month ago)
 
 #### 😱 My recent pull requests
 
