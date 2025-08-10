@@ -90,8 +90,8 @@ passions:
 - [eXsoR65](https://github.com/eXsoR65)
 - [j-pap](https://github.com/j-pap)
 - [jusot99](https://github.com/jusot99)
-- [seckinyasar](https://github.com/seckinyasar)
 - [mannmehta0611](https://github.com/mannmehta0611)
+- [Linux-Scratcher](https://github.com/Linux-Scratcher)
 
 #### ✌️ Contact!
 
