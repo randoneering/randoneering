@@ -91,7 +91,7 @@ passions:
 - [j-pap](https://github.com/j-pap)
 - [jusot99](https://github.com/jusot99)
 - [mannmehta0611](https://github.com/mannmehta0611)
-- [Linux-Scratcher](https://github.com/Linux-Scratcher)
+- [jmhorn00](https://github.com/jmhorn00)
 
 #### ✌️ Contact!
 
