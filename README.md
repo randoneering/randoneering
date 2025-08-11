@@ -66,6 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (today)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 months ago)
 - [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
 - [changed socials](https://github.com/randoneering/hugosite/pull/2) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
@@ -75,7 +76,6 @@ passions:
 - [fixing etc mount for navidrome](https://github.com/traefikturkey/onramp/pull/38) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 - [adding navidrome](https://github.com/traefikturkey/onramp/pull/37) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 - [Add Performance Insights and Database Insights to rds_cluster.py](https://github.com/ansible-collections/amazon.aws/pull/2543) on [ansible-collections/amazon.aws](https://github.com/ansible-collections/amazon.aws) (5 months ago)
-- [final adjustments, theme.toml](https://github.com/randoneering/hugo-dracula-charlolamode/pull/9) on [randoneering/hugo-dracula-charlolamode](https://github.com/randoneering/hugo-dracula-charlolamode) (6 months ago)
 
 #### 📰 Words I put together to look smart
 
