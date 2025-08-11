@@ -27,6 +27,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 day ago)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 weeks ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (3 weeks ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (4 weeks ago)
@@ -36,7 +37,6 @@ passions:
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) -  (3 months ago)
 - [randoneering/aws_db_ansible_playbooks](https://github.com/randoneering/aws_db_ansible_playbooks) - Collection of helpful aws db related ansible playbooks (4 months ago)
 - [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) -  (4 months ago)
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
@@ -66,6 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (today)
 - [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (today)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 months ago)
 - [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
@@ -75,7 +76,6 @@ passions:
 - [updating documentation, .env temp, navidrome](https://github.com/traefikturkey/onramp/pull/39) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 - [fixing etc mount for navidrome](https://github.com/traefikturkey/onramp/pull/38) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 - [adding navidrome](https://github.com/traefikturkey/onramp/pull/37) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
-- [Add Performance Insights and Database Insights to rds_cluster.py](https://github.com/ansible-collections/amazon.aws/pull/2543) on [ansible-collections/amazon.aws](https://github.com/ansible-collections/amazon.aws) (5 months ago)
 
 #### 📰 Words I put together to look smart
 
