@@ -27,7 +27,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 day ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 days ago)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 weeks ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (3 weeks ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (4 weeks ago)
@@ -53,8 +53,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. (2 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. (3 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 days ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 week ago)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (2 weeks ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (3 weeks ago)
@@ -66,8 +66,8 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (today)
-- [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (today)
+- [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 day ago)
+- [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (1 day ago)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (2 months ago)
 - [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
 - [changed socials](https://github.com/randoneering/hugosite/pull/2) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
