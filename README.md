@@ -87,11 +87,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [jaysavage1983](https://github.com/jaysavage1983)
 - [eXsoR65](https://github.com/eXsoR65)
 - [j-pap](https://github.com/j-pap)
 - [jusot99](https://github.com/jusot99)
 - [mannmehta0611](https://github.com/mannmehta0611)
-- [jmhorn00](https://github.com/jmhorn00)
 
 #### ✌️ Contact!
 
