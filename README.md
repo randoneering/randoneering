@@ -27,12 +27,12 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 weeks ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (1 month ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (1 month ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 months ago)
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (2 months ago)
+- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (3 months ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 months ago)
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) -  (4 months ago)
 - [randoneering/aws_db_ansible_playbooks](https://github.com/randoneering/aws_db_ansible_playbooks) - Collection of helpful aws db related ansible playbooks (4 months ago)
