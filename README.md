@@ -27,11 +27,11 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 day ago)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (3 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 weeks ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (1 month ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (1 month ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (3 months ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 months ago)
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) -  (4 months ago)
@@ -66,6 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (today)
 - [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (2 weeks ago)
 - [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (2 weeks ago)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 months ago)
@@ -75,15 +76,14 @@ passions:
 - [Adding DrawIO](https://github.com/traefikturkey/onramp/pull/40) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 - [updating documentation, .env temp, navidrome](https://github.com/traefikturkey/onramp/pull/39) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 - [fixing etc mount for navidrome](https://github.com/traefikturkey/onramp/pull/38) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
-- [adding navidrome](https://github.com/traefikturkey/onramp/pull/37) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 
 #### 📰 Words I put together to look smart
 
+- [Not Another AI Hype Train](/blog/random/aihypetrain/) (1 day ago)
 - [SCALE 22x](/blog/foss/scale22x/) (5 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (7 months ago)
 - [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (7 months ago)
 - [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (7 months ago)
-- [Weekly Post (2024-12-26)](/blog/weekly/december262024/) (8 months ago)
 
 #### 💜 Recent followers
 
