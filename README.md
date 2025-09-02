@@ -27,16 +27,16 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 days ago)
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (5 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (6 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (3 weeks ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (1 month ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (1 month ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (3 months ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 months ago)
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) -  (4 months ago)
-- [randoneering/aws_db_ansible_playbooks](https://github.com/randoneering/aws_db_ansible_playbooks) - Collection of helpful aws db related ansible playbooks (4 months ago)
-- [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) -  (4 months ago)
+- [randoneering/aws_db_ansible_playbooks](https://github.com/randoneering/aws_db_ansible_playbooks) - Collection of helpful aws db related ansible playbooks (5 months ago)
+- [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) -  (5 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
@@ -66,7 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (2 days ago)
+- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 days ago)
 - [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 weeks ago)
 - [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (3 weeks ago)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 months ago)
@@ -79,11 +79,11 @@ passions:
 
 #### 📰 Words I put together to look smart
 
-- [Not Another AI Hype Train](/blog/random/aihypetrain/) (3 days ago)
+- [Not Another AI Hype Train](/blog/random/aihypetrain/) (4 days ago)
 - [SCALE 22x](/blog/foss/scale22x/) (5 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (7 months ago)
 - [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (7 months ago)
-- [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (7 months ago)
+- [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (8 months ago)
 
 #### 💜 Recent followers
 
