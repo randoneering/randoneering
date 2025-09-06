@@ -53,8 +53,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. (3 weeks ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. (4 weeks ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 month ago)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (1 month ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 month ago)
@@ -66,7 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (6 days ago)
+- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (1 week ago)
 - [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 weeks ago)
 - [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (3 weeks ago)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 months ago)
@@ -80,7 +80,7 @@ passions:
 #### 📰 Words I put together to look smart
 
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (1 week ago)
-- [SCALE 22x](/blog/foss/scale22x/) (5 months ago)
+- [SCALE 22x](/blog/foss/scale22x/) (6 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (7 months ago)
 - [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (7 months ago)
 - [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (8 months ago)
