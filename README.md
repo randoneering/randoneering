@@ -27,7 +27,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (3 days ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 week ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 weeks ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (1 month ago)
@@ -53,29 +53,29 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. (4 weeks ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. (1 month ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 month ago)
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. (1 month ago)
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app (1 month ago)
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments &amp; audits, incident response, compliance, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, ENS and more (1 month ago)
 - [zerostaticthemes/hugo-hero-theme](https://github.com/zerostaticthemes/hugo-hero-theme) - A multi-page Hugo theme with fullscreen hero images and fullwidth sections. (1 month ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (1 month ago)
-- [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja (1 month ago)
+- [invoiceninja/dockerfiles](https://github.com/invoiceninja/dockerfiles) - Docker files for Invoice Ninja (2 months ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 months ago)
 
 #### 😱 My recent pull requests
 
 - [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (1 week ago)
-- [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 weeks ago)
-- [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (3 weeks ago)
+- [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (4 weeks ago)
+- [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (4 weeks ago)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (3 months ago)
-- [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
-- [changed socials](https://github.com/randoneering/hugosite/pull/2) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 months ago)
+- [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (4 months ago)
+- [changed socials](https://github.com/randoneering/hugosite/pull/2) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (4 months ago)
 - [did it again](https://github.com/traefikturkey/onramp/pull/41) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
 - [Adding DrawIO](https://github.com/traefikturkey/onramp/pull/40) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
-- [updating documentation, .env temp, navidrome](https://github.com/traefikturkey/onramp/pull/39) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
-- [fixing etc mount for navidrome](https://github.com/traefikturkey/onramp/pull/38) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (5 months ago)
+- [updating documentation, .env temp, navidrome](https://github.com/traefikturkey/onramp/pull/39) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 months ago)
+- [fixing etc mount for navidrome](https://github.com/traefikturkey/onramp/pull/38) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 months ago)
 
 #### 📰 Words I put together to look smart
 
