@@ -27,9 +27,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (3 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (4 days ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 week ago)
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 weeks ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 month ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (1 month ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (1 month ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (3 months ago)
@@ -82,7 +82,7 @@ passions:
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (1 week ago)
 - [SCALE 22x](/blog/foss/scale22x/) (6 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (7 months ago)
-- [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (7 months ago)
+- [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (8 months ago)
 - [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (8 months ago)
 
 #### 💜 Recent followers
