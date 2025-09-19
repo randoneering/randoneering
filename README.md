@@ -27,10 +27,10 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 week ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 weeks ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 weeks ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 month ago)
-- [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (1 month ago)
+- [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (2 months ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (2 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (3 months ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 months ago)
@@ -53,7 +53,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [DavidLiedle/DriftDB](https://github.com/DavidLiedle/DriftDB) - DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust. (3 days ago)
+- [DavidLiedle/DriftDB](https://github.com/DavidLiedle/DriftDB) - DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust. (4 days ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours. (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator… (1 month ago)
@@ -79,7 +79,7 @@ passions:
 
 #### 📰 Words I put together to look smart
 
-- [Not Another AI Hype Train](/blog/random/aihypetrain/) (2 weeks ago)
+- [Not Another AI Hype Train](/blog/random/aihypetrain/) (3 weeks ago)
 - [SCALE 22x](/blog/foss/scale22x/) (6 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (7 months ago)
 - [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (8 months ago)
