@@ -36,7 +36,7 @@ passions:
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (3 months ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 months ago)
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) -  (5 months ago)
-- [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) -  (5 months ago)
+- [randoneering/aws_db_ansible_playbooks](https://github.com/randoneering/aws_db_ansible_playbooks) - Collection of helpful aws db related ansible playbooks (5 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
