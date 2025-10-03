@@ -66,6 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Adding Atuin-Desktop to Nix Packages](https://github.com/NixOS/nixpkgs/pull/448104) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (1 month ago)
 - [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 month ago)
 - [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (1 month ago)
@@ -75,7 +76,6 @@ passions:
 - [did it again](https://github.com/traefikturkey/onramp/pull/41) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 months ago)
 - [Adding DrawIO](https://github.com/traefikturkey/onramp/pull/40) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 months ago)
 - [updating documentation, .env temp, navidrome](https://github.com/traefikturkey/onramp/pull/39) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 months ago)
-- [fixing etc mount for navidrome](https://github.com/traefikturkey/onramp/pull/38) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 months ago)
 
 #### 📰 Words I put together to look smart
 
