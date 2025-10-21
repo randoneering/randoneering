@@ -27,14 +27,14 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (4 days ago)
-- [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (4 weeks ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (5 days ago)
+- [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (1 month ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 month ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 months ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (3 months ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (3 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (4 months ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 months ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (5 months ago)
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) -  (6 months ago)
 - [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) -  (6 months ago)
 
@@ -53,8 +53,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb] (6 days ago)
-- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop) (2 weeks ago)
+- [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb] (1 week ago)
+- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop) (3 weeks ago)
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively (3 weeks ago)
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language. (1 month ago)
 - [DavidLiedle/DriftDB](https://github.com/DavidLiedle/DriftDB) - DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust. (1 month ago)
