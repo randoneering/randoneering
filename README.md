@@ -27,6 +27,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (today)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
 - [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (1 month ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 month ago)
@@ -36,10 +37,10 @@ passions:
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (4 months ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (5 months ago)
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) -  (6 months ago)
-- [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) -  (6 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools.
 - [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC
@@ -49,7 +50,6 @@ passions:
 - [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) - 
 - [randoneering/aws_db_ansible_playbooks](https://github.com/randoneering/aws_db_ansible_playbooks) - Collection of helpful aws db related ansible playbooks
 - [randoneering/adhoc_mysqldumps](https://github.com/randoneering/adhoc_mysqldumps) - Powershell Script to run mysqldump, gzip, and upload to s3 bucket
-- [randoneering/adhoc_pgdumps](https://github.com/randoneering/adhoc_pgdumps) - Powershell Script to run pg_dump(all), gzip, and upload to s3 bucket
 
 #### ⭐ My most recent obsessions
 
