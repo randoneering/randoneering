@@ -53,6 +53,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (today)
 - [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (1 day ago)
 - [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (1 day ago)
 - [hedinne/popping-and-locking-vscode](https://github.com/hedinne/popping-and-locking-vscode) - Vivid and well balanced syntax for VS Code. (1 day ago)
@@ -62,7 +63,6 @@ passions:
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop) (3 weeks ago)
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively (4 weeks ago)
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language. (1 month ago)
-- [DavidLiedle/DriftDB](https://github.com/DavidLiedle/DriftDB) - DriftDB - An experimental append-only database with built-in time travel. Query any point in history, guaranteed data integrity, and immutable audit trails. Written in Rust. (1 month ago)
 
 #### 😱 My recent pull requests
 
