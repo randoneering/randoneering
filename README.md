@@ -79,11 +79,11 @@ passions:
 
 #### 📰 Words I put together to look smart
 
-- [Not Another AI Hype Train](/blog/random/aihypetrain/) (2 months ago)
-- [SCALE 22x](/blog/foss/scale22x/) (7 months ago)
-- [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (9 months ago)
-- [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (9 months ago)
-- [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (9 months ago)
+- [Not Another AI Hype Train](//localhost:1313/blog/random/aihypetrain/) (2 months ago)
+- [SCALE 22x](//localhost:1313/blog/foss/scale22x/) (7 months ago)
+- [Weekly Post (2025-01-25)](//localhost:1313/blog/weekly/jan212025/) (9 months ago)
+- [Weekly Post (2025-01-12)](//localhost:1313/blog/weekly/jan122025/) (9 months ago)
+- [Weekly Post (2025-01-05)](//localhost:1313/blog/weekly/jan052025/) (9 months ago)
 
 #### 💜 Recent followers
 
