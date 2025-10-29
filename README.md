@@ -27,9 +27,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (2 days ago)
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 days ago)
+- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (3 days ago)
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 days ago)
 - [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (1 month ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 months ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 months ago)
@@ -53,11 +53,11 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 days ago)
-- [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (3 days ago)
-- [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (3 days ago)
-- [hedinne/popping-and-locking-vscode](https://github.com/hedinne/popping-and-locking-vscode) - Vivid and well balanced syntax for VS Code. (3 days ago)
-- [philsinatra/iterm2-popping-and-locking](https://github.com/philsinatra/iterm2-popping-and-locking) - iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode (3 days ago)
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 days ago)
+- [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (4 days ago)
+- [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (4 days ago)
+- [hedinne/popping-and-locking-vscode](https://github.com/hedinne/popping-and-locking-vscode) - Vivid and well balanced syntax for VS Code. (4 days ago)
+- [philsinatra/iterm2-popping-and-locking](https://github.com/philsinatra/iterm2-popping-and-locking) - iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode (4 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb] (2 weeks ago)
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop) (4 weeks ago)
@@ -66,13 +66,13 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Add Popping and Locking Theme extension](https://github.com/zed-industries/extensions/pull/3668) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 days ago)
+- [Add Popping and Locking Theme extension](https://github.com/zed-industries/extensions/pull/3668) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (3 days ago)
 - [atuin-desktop: init at 0.1.3](https://github.com/NixOS/nixpkgs/pull/448422) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
 - [Adding Atuin-Desktop to Nix Packages](https://github.com/NixOS/nixpkgs/pull/448104) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
-- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (1 month ago)
+- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (2 months ago)
 - [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (2 months ago)
 - [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (2 months ago)
-- [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (4 months ago)
+- [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (5 months ago)
 - [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (5 months ago)
 - [changed socials](https://github.com/randoneering/hugosite/pull/2) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (5 months ago)
 - [did it again](https://github.com/traefikturkey/onramp/pull/41) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (7 months ago)
