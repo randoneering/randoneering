@@ -27,10 +27,10 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
-- [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (1 day ago)
-- [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (6 days ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (6 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
+- [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (2 days ago)
+- [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (1 week ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 week ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 week ago)
 - [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (1 month ago)
@@ -58,15 +58,15 @@ passions:
 - [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (1 week ago)
 - [hedinne/popping-and-locking-vscode](https://github.com/hedinne/popping-and-locking-vscode) - Vivid and well balanced syntax for VS Code. (1 week ago)
 - [philsinatra/iterm2-popping-and-locking](https://github.com/philsinatra/iterm2-popping-and-locking) - iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode (1 week ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
-- [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb] (2 weeks ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
+- [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb] (3 weeks ago)
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop) (1 month ago)
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively (1 month ago)
 - [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language. (1 month ago)
 
 #### 😱 My recent pull requests
 
-- [New theme](https://github.com/randoneering/hugosite/pull/5) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (5 days ago)
+- [New theme](https://github.com/randoneering/hugosite/pull/5) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (6 days ago)
 - [Add Popping and Locking Theme extension](https://github.com/zed-industries/extensions/pull/3668) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 week ago)
 - [atuin-desktop: init at 0.1.3](https://github.com/NixOS/nixpkgs/pull/448422) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [Adding Atuin-Desktop to Nix Packages](https://github.com/NixOS/nixpkgs/pull/448104) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
