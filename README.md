@@ -27,13 +27,13 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (today)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 days ago)
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (3 days ago)
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (1 week ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 weeks ago)
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 weeks ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (2 weeks ago)
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 weeks ago)
 - [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (1 month ago)
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (3 months ago)
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC (4 months ago)
@@ -66,6 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [First Deployment!](https://github.com/randoneering/pgFirstAid/pull/1) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [update env vars for kaneo-v2](https://github.com/traefikturkey/onramp/pull/43) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 day ago)
 - [New theme](https://github.com/randoneering/hugosite/pull/5) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (2 weeks ago)
 - [Add Popping and Locking Theme extension](https://github.com/zed-industries/extensions/pull/3668) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 weeks ago)
@@ -75,7 +76,6 @@ passions:
 - [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 months ago)
 - [added variables for media/downloads and health check](https://github.com/randoneering/onramp/pull/2) on [randoneering/onramp](https://github.com/randoneering/onramp) (3 months ago)
 - [adding two spots within Boise, Idaho](https://github.com/NerdyDayTrips/website/pull/312) on [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) (5 months ago)
-- [Blog folders reorg](https://github.com/randoneering/hugosite/pull/3) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (6 months ago)
 
 #### 📰 Words I put together to look smart
 
