@@ -87,11 +87,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [IndieMinimalist](https://github.com/IndieMinimalist)
 - [fmotaf](https://github.com/fmotaf)
 - [jaysavage83](https://github.com/jaysavage83)
 - [eXsoR65](https://github.com/eXsoR65)
 - [j-pap](https://github.com/j-pap)
-- [jusot99](https://github.com/jusot99)
 
 #### ✌️ Contact!
 
