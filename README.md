@@ -87,11 +87,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [okulev](https://github.com/okulev)
 - [mattf96s](https://github.com/mattf96s)
 - [IndieMinimalist](https://github.com/IndieMinimalist)
 - [fmotaf](https://github.com/fmotaf)
 - [jaysavage83](https://github.com/jaysavage83)
-- [eXsoR65](https://github.com/eXsoR65)
 
 #### ✌️ Contact!
 
