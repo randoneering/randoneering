@@ -53,6 +53,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (today)
+- [neondatabase-labs/postgres-sample-dbs](https://github.com/neondatabase-labs/postgres-sample-dbs) - A collection of sample Postgres databases for learning, testing, and development. (today)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 weeks ago)
 - [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (3 weeks ago)
 - [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (3 weeks ago)
@@ -61,8 +63,6 @@ passions:
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
 - [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb] (1 month ago)
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop) (1 month ago)
-- [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively (1 month ago)
-- [subnetmarco/pgmcp](https://github.com/subnetmarco/pgmcp) - An MCP server to query any Postgres database in natural language. (1 month ago)
 
 #### 😱 My recent pull requests
 
