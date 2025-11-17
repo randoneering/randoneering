@@ -27,8 +27,8 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (today)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (4 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 week ago)
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (2 weeks ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 weeks ago)
@@ -66,6 +66,8 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [fix for issue#8, forgot the last link](https://github.com/randoneering/pgFirstAid/pull/11) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
+- [fix for issue#8](https://github.com/randoneering/pgFirstAid/pull/10) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [doc: readme and pr doc updates](https://github.com/randoneering/pgFirstAid/pull/6) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
 - [quick change to readme](https://github.com/randoneering/pgFirstAid/pull/2) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (5 days ago)
 - [First Deployment!](https://github.com/randoneering/pgFirstAid/pull/1) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (5 days ago)
@@ -74,8 +76,6 @@ passions:
 - [Add Popping and Locking Theme extension](https://github.com/zed-industries/extensions/pull/3668) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (3 weeks ago)
 - [atuin-desktop: init at 0.1.3](https://github.com/NixOS/nixpkgs/pull/448422) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [Adding Atuin-Desktop to Nix Packages](https://github.com/NixOS/nixpkgs/pull/448104) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
-- [Just a post on AI and taking it in chunks](https://github.com/randoneering/hugosite/pull/4) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (2 months ago)
-- [Updating LazyLibrarian with Media/Download vars and Health Checks](https://github.com/traefikturkey/onramp/pull/42) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 months ago)
 
 #### 📰 Words I put together to look smart
 
