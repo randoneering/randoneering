@@ -66,6 +66,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Update GitHub Sponsors username in FUNDING.yml](https://github.com/randoneering/pgFirstAid/pull/12) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [fix for issue#8, forgot the last link](https://github.com/randoneering/pgFirstAid/pull/11) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
 - [fix for issue#8](https://github.com/randoneering/pgFirstAid/pull/10) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
 - [doc: readme and pr doc updates](https://github.com/randoneering/pgFirstAid/pull/6) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
@@ -75,7 +76,6 @@ passions:
 - [New theme](https://github.com/randoneering/hugosite/pull/5) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (2 weeks ago)
 - [Add Popping and Locking Theme extension](https://github.com/zed-industries/extensions/pull/3668) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (3 weeks ago)
 - [atuin-desktop: init at 0.1.3](https://github.com/NixOS/nixpkgs/pull/448422) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
-- [Adding Atuin-Desktop to Nix Packages](https://github.com/NixOS/nixpkgs/pull/448104) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
