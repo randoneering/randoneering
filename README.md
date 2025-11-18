@@ -53,6 +53,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (today)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (1 day ago)
 - [neondatabase-labs/postgres-sample-dbs](https://github.com/neondatabase-labs/postgres-sample-dbs) - A collection of sample Postgres databases for learning, testing, and development. (1 day ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 weeks ago)
@@ -62,7 +63,6 @@ passions:
 - [philsinatra/iterm2-popping-and-locking](https://github.com/philsinatra/iterm2-popping-and-locking) - iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode (3 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 weeks ago)
 - [nix-community/kickstart-nix.nvim](https://github.com/nix-community/kickstart-nix.nvim) - ❄️ A dead simple Nix flake template repository for Neovim derivations [maintainer=@mrcjkb] (1 month ago)
-- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs everywhere (Terminal, Web, Desktop) (1 month ago)
 
 #### 😱 My recent pull requests
 
