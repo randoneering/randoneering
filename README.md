@@ -87,11 +87,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [lalomorales22](https://github.com/lalomorales22)
 - [linjmeyer](https://github.com/linjmeyer)
 - [21-pedro](https://github.com/21-pedro)
 - [okulev](https://github.com/okulev)
 - [mattf96s](https://github.com/mattf96s)
-- [IndieMinimalist](https://github.com/IndieMinimalist)
 
 #### ✌️ Contact!
 
