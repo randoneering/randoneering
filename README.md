@@ -27,7 +27,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 days ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 days ago)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 week ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 week ago)
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (2 weeks ago)
@@ -53,9 +53,9 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (2 days ago)
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (3 days ago)
-- [neondatabase-labs/postgres-sample-dbs](https://github.com/neondatabase-labs/postgres-sample-dbs) - A collection of sample Postgres databases for learning, testing, and development. (3 days ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 days ago)
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (4 days ago)
+- [neondatabase-labs/postgres-sample-dbs](https://github.com/neondatabase-labs/postgres-sample-dbs) - A collection of sample Postgres databases for learning, testing, and development. (4 days ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 weeks ago)
 - [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (3 weeks ago)
 - [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (3 weeks ago)
@@ -66,11 +66,11 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [adjust pg_relation_size param to 100mb and prevent catching pg_temp tables](https://github.com/randoneering/pgFirstAid/pull/14) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
-- [Update GitHub Sponsors username in FUNDING.yml](https://github.com/randoneering/pgFirstAid/pull/12) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 days ago)
-- [fix for issue#8, forgot the last link](https://github.com/randoneering/pgFirstAid/pull/11) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
-- [fix for issue#8](https://github.com/randoneering/pgFirstAid/pull/10) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
-- [doc: readme and pr doc updates](https://github.com/randoneering/pgFirstAid/pull/6) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (6 days ago)
+- [adjust pg_relation_size param to 100mb and prevent catching pg_temp tables](https://github.com/randoneering/pgFirstAid/pull/14) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 days ago)
+- [Update GitHub Sponsors username in FUNDING.yml](https://github.com/randoneering/pgFirstAid/pull/12) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
+- [fix for issue#8, forgot the last link](https://github.com/randoneering/pgFirstAid/pull/11) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
+- [fix for issue#8](https://github.com/randoneering/pgFirstAid/pull/10) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
+- [doc: readme and pr doc updates](https://github.com/randoneering/pgFirstAid/pull/6) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [quick change to readme](https://github.com/randoneering/pgFirstAid/pull/2) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [First Deployment!](https://github.com/randoneering/pgFirstAid/pull/1) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [update env vars for kaneo-v2](https://github.com/traefikturkey/onramp/pull/43) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 week ago)
@@ -81,7 +81,7 @@ passions:
 
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (2 months ago)
 - [SCALE 22x](/blog/foss/scale22x/) (8 months ago)
-- [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (9 months ago)
+- [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (10 months ago)
 - [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (10 months ago)
 - [Weekly Post (2025-01-05)](/blog/weekly/jan052025/) (10 months ago)
 
