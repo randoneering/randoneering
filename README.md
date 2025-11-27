@@ -27,12 +27,12 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (3 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 weeks ago)
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (3 weeks ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 weeks ago)
-- [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (4 weeks ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 month ago)
+- [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (1 month ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 month ago)
 - [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (2 months ago)
@@ -53,8 +53,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [ioguix/pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL (1 day ago)
-- [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL (5 days ago)
+- [ioguix/pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL (2 days ago)
+- [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL (6 days ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 week ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (1 week ago)
 - [neondatabase-labs/postgres-sample-dbs](https://github.com/neondatabase-labs/postgres-sample-dbs) - A collection of sample Postgres databases for learning, testing, and development. (1 week ago)
@@ -79,7 +79,7 @@ passions:
 
 #### 📰 Words I put together to look smart
 
-- [Not Another AI Hype Train](/blog/random/aihypetrain/) (2 months ago)
+- [Not Another AI Hype Train](/blog/random/aihypetrain/) (3 months ago)
 - [SCALE 22x](/blog/foss/scale22x/) (8 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (10 months ago)
 - [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (10 months ago)
