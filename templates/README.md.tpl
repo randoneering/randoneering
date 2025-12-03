@@ -23,7 +23,6 @@ passions:
 
 </div>
 
-[![Justin @ Randoneering, LLC GitHub stats](https://github-readme-stats.vercel.app/api?username=randoneering&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 {{range recentContributions 10}}
