@@ -28,6 +28,7 @@ passions:
 #### ☕ Check out what I'm currently working on (probably flakes)
 
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
+- [randoneering/nix-flake-dev](https://github.com/randoneering/nix-flake-dev) - My dev flake for breaking things on only ONE device! (1 day ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (2 days ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (5 days ago)
@@ -36,10 +37,10 @@ passions:
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (1 month ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
 - [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (2 months ago)
-- [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui (4 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/nix-flake-dev](https://github.com/randoneering/nix-flake-dev) - My dev flake for breaking things on only ONE device!
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools.
@@ -49,7 +50,6 @@ passions:
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake. 
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance. 
 - [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) - 
-- [randoneering/aws_dba_terraform_modules](https://github.com/randoneering/aws_dba_terraform_modules) - 
 
 #### ⭐ My most recent obsessions
 
