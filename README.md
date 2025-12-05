@@ -9,7 +9,7 @@
 
 ```yaml
 name: "Justin (Randoneering™)"
-role: "Founding Randoneer @ Randoneering, LLC and Senior Database Engineer @ RxBenefits, Inc"
+role: "Founding Randoneer @ Randoneering, LLC and Senior Data Engineer @ RxBenefits, Inc"
 location: "Gem State"
 passions:
   - 🌲 Outdoor adventures
