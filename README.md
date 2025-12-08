@@ -52,6 +52,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool (today)
 - [ioguix/pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL (1 week ago)
 - [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL (2 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (2 weeks ago)
@@ -61,7 +62,6 @@ passions:
 - [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (1 month ago)
 - [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (1 month ago)
 - [hedinne/popping-and-locking-vscode](https://github.com/hedinne/popping-and-locking-vscode) - Vivid and well balanced syntax for VS Code. (1 month ago)
-- [philsinatra/iterm2-popping-and-locking](https://github.com/philsinatra/iterm2-popping-and-locking) - iTerm2 theme based on https://github.com/hedinne/popping-and-locking-vscode (1 month ago)
 
 #### 😱 My recent pull requests
 
