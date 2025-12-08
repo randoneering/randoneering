@@ -65,6 +65,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (today)
 - [Feature/auto timezone](https://github.com/mkellyxp/nixbook/pull/51) on [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) (1 week ago)
 - [Feature/milestone2](https://github.com/randoneering/pgFirstAid/pull/16) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [adjust pg_relation_size param to 100mb and prevent catching pg_temp tables](https://github.com/randoneering/pgFirstAid/pull/14) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
@@ -74,7 +75,6 @@ passions:
 - [doc: readme and pr doc updates](https://github.com/randoneering/pgFirstAid/pull/6) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [quick change to readme](https://github.com/randoneering/pgFirstAid/pull/2) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [First Deployment!](https://github.com/randoneering/pgFirstAid/pull/1) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
-- [update env vars for kaneo-v2](https://github.com/traefikturkey/onramp/pull/43) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 weeks ago)
 
 #### 📰 Words I put together to look smart
 
