@@ -27,6 +27,7 @@ passions:
 #### ☕ Check out what I'm currently working on (probably flakes)
 
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
+- [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (1 day ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 days ago)
 - [randoneering/nix-flake-dev](https://github.com/randoneering/nix-flake-dev) - My dev flake for breaking things on only ONE device! (1 week ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
@@ -35,10 +36,10 @@ passions:
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (1 month ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (1 month ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
-- [randoneering/flox-ollama-ui](https://github.com/randoneering/flox-ollama-ui) - Flox env for setting up ollama-cuda with openweb-ui (2 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE
 - [randoneering/nix-flake-dev](https://github.com/randoneering/nix-flake-dev) - My dev flake for breaking things on only ONE device!
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian
@@ -48,10 +49,10 @@ passions:
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake. 
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance. 
-- [randoneering/awx-randoneering](https://github.com/randoneering/awx-randoneering) - 
 
 #### ⭐ My most recent obsessions
 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more (today)
 - [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool (3 days ago)
 - [ioguix/pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL (2 weeks ago)
 - [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL (2 weeks ago)
@@ -61,7 +62,6 @@ passions:
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
 - [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (1 month ago)
 - [philsinatra/popping-and-locking-vscode-black](https://github.com/philsinatra/popping-and-locking-vscode-black) - A variation of the original popping-and-locking theme that uses black as the primary background color (1 month ago)
-- [hedinne/popping-and-locking-vscode](https://github.com/hedinne/popping-and-locking-vscode) - Vivid and well balanced syntax for VS Code. (1 month ago)
 
 #### 😱 My recent pull requests
 
