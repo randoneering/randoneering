@@ -65,7 +65,7 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Updating Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (today)
+- [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (today)
 - [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (today)
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (today)
 - [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (4 days ago)
