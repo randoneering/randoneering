@@ -26,6 +26,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde. (today)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (2 days ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (3 days ago)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (3 days ago)
@@ -35,10 +36,10 @@ passions:
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 weeks ago)
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (1 month ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (1 month ago)
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde.
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE
 - [randoneering/nix-flake-dev](https://github.com/randoneering/nix-flake-dev) - My dev flake for breaking things on only ONE device!
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs
@@ -48,7 +49,6 @@ passions:
 - [randoneering/nix-llama](https://github.com/randoneering/nix-llama) - Easy to use nixOS flake with Ollama and OpenWebui
 - [randoneering/randoneering-hugo-llc](https://github.com/randoneering/randoneering-hugo-llc) - The official Hugo Template for Randoneering, LLC
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake. 
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance. 
 
 #### ⭐ My most recent obsessions
 
