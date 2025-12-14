@@ -26,10 +26,10 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
 - [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde. (1 day ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 days ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (4 days ago)
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (4 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 week ago)
 - [randoneering/nix-flake-dev](https://github.com/randoneering/nix-flake-dev) - My dev flake for breaking things on only ONE device! (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
