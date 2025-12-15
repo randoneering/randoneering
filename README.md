@@ -26,6 +26,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (today)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
 - [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde. (2 days ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (4 days ago)
@@ -35,7 +36,6 @@ passions:
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 weeks ago)
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (1 month ago)
-- [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (1 month ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
