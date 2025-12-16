@@ -88,9 +88,9 @@ passions:
 
 - [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
-- [frieren-mage](https://github.com/frieren-mage)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 - [Gravifer](https://github.com/Gravifer)
+- [989139835182](https://github.com/989139835182)
 
 #### ✌️ Contact!
 
