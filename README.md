@@ -26,9 +26,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde. (1 day ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 day ago)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
-- [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde. (3 days ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (5 days ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (6 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 week ago)
@@ -65,6 +65,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [adding cve api pull and ingestion](https://github.com/randoneering/cve-mercury-retrograde/pull/1) on [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) (today)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (4 days ago)
 - [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (4 days ago)
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (4 days ago)
@@ -74,7 +75,6 @@ passions:
 - [adjust pg_relation_size param to 100mb and prevent catching pg_temp tables](https://github.com/randoneering/pgFirstAid/pull/14) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [Update GitHub Sponsors username in FUNDING.yml](https://github.com/randoneering/pgFirstAid/pull/12) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
 - [fix for issue#8, forgot the last link](https://github.com/randoneering/pgFirstAid/pull/11) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
-- [fix for issue#8](https://github.com/randoneering/pgFirstAid/pull/10) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
 
 #### 📰 Words I put together to look smart
 
