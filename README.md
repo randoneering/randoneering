@@ -52,6 +52,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [abusix/querycontacts](https://github.com/abusix/querycontacts) - Query network abuse contacts for a given ip address on abuse-contacts.abusix.zone (today)
 - [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome (5 days ago)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more (6 days ago)
 - [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool (1 week ago)
@@ -61,7 +62,6 @@ passions:
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. (1 month ago)
 - [neondatabase/postgres-sample-dbs](https://github.com/neondatabase/postgres-sample-dbs) - A collection of sample Postgres databases for learning, testing, and development. (1 month ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
-- [psbarrales/hyper-popping-and-locking](https://github.com/psbarrales/hyper-popping-and-locking) - HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode (1 month ago)
 
 #### 😱 My recent pull requests
 
