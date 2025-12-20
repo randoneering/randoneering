@@ -26,14 +26,14 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde. (3 days ago)
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (4 days ago)
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (5 days ago)
+- [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) - Pipeline project to answer a random question: is there a pattern between the submission cves and when Mercury is in retrograde. (4 days ago)
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (5 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (6 days ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (1 week ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 week ago)
 - [randoneering/nix-flake-dev](https://github.com/randoneering/nix-flake-dev) - My dev flake for breaking things on only ONE device! (2 weeks ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 weeks ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 weeks ago)
 - [randoneering/randoneering-flox-envs](https://github.com/randoneering/randoneering-flox-envs) - Collection of flox envs (1 month ago)
 
@@ -52,8 +52,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure) - Scan your uv.lock file for dependencies with known vulnerabilities (1 day ago)
-- [abusix/querycontacts](https://github.com/abusix/querycontacts) - Query network abuse contacts for a given ip address on abuse-contacts.abusix.zone (2 days ago)
+- [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure) - Scan your uv.lock file for dependencies with known vulnerabilities (2 days ago)
+- [abusix/querycontacts](https://github.com/abusix/querycontacts) - Query network abuse contacts for a given ip address on abuse-contacts.abusix.zone (3 days ago)
 - [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome (1 week ago)
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more (1 week ago)
 - [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool (1 week ago)
@@ -65,20 +65,20 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [fresh-editor:init at 0.1.55](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
-- [adding cve api pull and ingestion](https://github.com/randoneering/cve-mercury-retrograde/pull/1) on [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) (3 days ago)
+- [fresh-editor:init at 0.1.55](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [adding cve api pull and ingestion](https://github.com/randoneering/cve-mercury-retrograde/pull/1) on [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) (4 days ago)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 week ago)
 - [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (1 week ago)
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (1 week ago)
 - [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 week ago)
 - [Feature/auto timezone](https://github.com/mkellyxp/nixbook/pull/51) on [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) (2 weeks ago)
-- [Feature/milestone2](https://github.com/randoneering/pgFirstAid/pull/16) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
+- [Feature/milestone2](https://github.com/randoneering/pgFirstAid/pull/16) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [adjust pg_relation_size param to 100mb and prevent catching pg_temp tables](https://github.com/randoneering/pgFirstAid/pull/14) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [Update GitHub Sponsors username in FUNDING.yml](https://github.com/randoneering/pgFirstAid/pull/12) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
-- [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (2 weeks ago)
+- [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (3 weeks ago)
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (3 months ago)
 - [SCALE 22x](/blog/foss/scale22x/) (9 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (10 months ago)
