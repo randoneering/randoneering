@@ -65,7 +65,7 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [fresh-editor:init at 0.1.55](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [adding cve api pull and ingestion](https://github.com/randoneering/cve-mercury-retrograde/pull/1) on [randoneering/cve-mercury-retrograde](https://github.com/randoneering/cve-mercury-retrograde) (5 days ago)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 week ago)
 - [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (1 week ago)
