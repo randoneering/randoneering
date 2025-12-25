@@ -47,6 +47,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (today)
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape (4 days ago)
 - [nix-community/nixpkgs-pytools](https://github.com/nix-community/nixpkgs-pytools) - Tools for removing the tedious nature of creating nixpkgs derivations [maintainer=@costrouc] (4 days ago)
 - [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure) - Scan your uv.lock file for dependencies with known vulnerabilities (1 week ago)
@@ -56,7 +57,6 @@ passions:
 - [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - Databases backup tool (PostgreSQL, MySQL, MongoDB) (2 weeks ago)
 - [ioguix/pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL (1 month ago)
 - [pgr0ss/pgledger](https://github.com/pgr0ss/pgledger) - A double entry ledger implementation in PostgreSQL (1 month ago)
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 month ago)
 
 #### 😱 My recent pull requests
 
