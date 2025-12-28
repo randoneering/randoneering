@@ -26,13 +26,13 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 week ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (2 weeks ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (2 weeks ago)
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 weeks ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (3 weeks ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 weeks ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 weeks ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 month ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (7 months ago)
 
@@ -47,11 +47,11 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) -  (1 day ago)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 day ago)
-- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (2 days ago)
-- [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape (6 days ago)
-- [nix-community/nixpkgs-pytools](https://github.com/nix-community/nixpkgs-pytools) - Tools for removing the tedious nature of creating nixpkgs derivations [maintainer=@costrouc] (6 days ago)
+- [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) -  (2 days ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (2 days ago)
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (3 days ago)
+- [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape (1 week ago)
+- [nix-community/nixpkgs-pytools](https://github.com/nix-community/nixpkgs-pytools) - Tools for removing the tedious nature of creating nixpkgs derivations [maintainer=@costrouc] (1 week ago)
 - [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure) - Scan your uv.lock file for dependencies with known vulnerabilities (1 week ago)
 - [abusix/querycontacts](https://github.com/abusix/querycontacts) - Query network abuse contacts for a given ip address on abuse-contacts.abusix.zone (1 week ago)
 - [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome (2 weeks ago)
@@ -65,7 +65,7 @@ passions:
 - [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (2 weeks ago)
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (2 weeks ago)
 - [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (2 weeks ago)
-- [Feature/auto timezone](https://github.com/mkellyxp/nixbook/pull/51) on [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) (3 weeks ago)
+- [Feature/auto timezone](https://github.com/mkellyxp/nixbook/pull/51) on [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) (4 weeks ago)
 - [Feature/milestone2](https://github.com/randoneering/pgFirstAid/pull/16) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
 - [adjust pg_relation_size param to 100mb and prevent catching pg_temp tables](https://github.com/randoneering/pgFirstAid/pull/14) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [Update GitHub Sponsors username in FUNDING.yml](https://github.com/randoneering/pgFirstAid/pull/12) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
