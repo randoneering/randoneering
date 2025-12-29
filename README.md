@@ -26,12 +26,12 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (today)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (2 weeks ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (2 weeks ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (3 weeks ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 month ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 month ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (7 months ago)
@@ -73,11 +73,11 @@ passions:
 
 #### 📰 Words I put together to look smart
 
-- [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (1 month ago)
-- [Not Another AI Hype Train](/blog/random/aihypetrain/) (4 months ago)
-- [SCALE 22x](/blog/foss/scale22x/) (9 months ago)
-- [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (11 months ago)
-- [Weekly Post (2025-01-12)](/blog/weekly/jan122025/) (11 months ago)
+- [Not Another AI Hype Train](//localhost:1313/blog/random/aihypetrain/) (4 months ago)
+- [SCALE 22x](//localhost:1313/blog/foss/scale22x/) (9 months ago)
+- [Weekly Post (2025-01-25)](//localhost:1313/blog/weekly/jan212025/) (11 months ago)
+- [Weekly Post (2025-01-12)](//localhost:1313/blog/weekly/jan122025/) (11 months ago)
+- [Weekly Post (2025-01-05)](//localhost:1313/blog/weekly/jan052025/) (11 months ago)
 
 #### 💜 Recent followers
 
