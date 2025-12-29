@@ -47,6 +47,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - @agh&#39;s Style Guide 🎩 (today)
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (1 day ago)
 - [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) -  (3 days ago)
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (3 days ago)
@@ -56,7 +57,6 @@ passions:
 - [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure) - Scan your uv.lock file for dependencies with known vulnerabilities (1 week ago)
 - [abusix/querycontacts](https://github.com/abusix/querycontacts) - Query network abuse contacts for a given ip address on abuse-contacts.abusix.zone (1 week ago)
 - [jaegeral/security-apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome (2 weeks ago)
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft&#39;s Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more (2 weeks ago)
 
 #### 😱 My recent pull requests
 
