@@ -28,10 +28,10 @@ passions:
 
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 day ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 day ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (2 weeks ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (2 weeks ago)
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (3 weeks ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 month ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (7 months ago)
@@ -60,6 +60,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (today)
 - [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 weeks ago)
 - [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (2 weeks ago)
@@ -69,7 +70,6 @@ passions:
 - [Feature/milestone2](https://github.com/randoneering/pgFirstAid/pull/16) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [adjust pg_relation_size param to 100mb and prevent catching pg_temp tables](https://github.com/randoneering/pgFirstAid/pull/14) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [Update GitHub Sponsors username in FUNDING.yml](https://github.com/randoneering/pgFirstAid/pull/12) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
-- [fix for issue#8, forgot the last link](https://github.com/randoneering/pgFirstAid/pull/11) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
