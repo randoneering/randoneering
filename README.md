@@ -47,6 +47,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (today)
 - [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (1 day ago)
 - [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - @agh&#39;s Style Guide 🎩 (2 days ago)
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (3 days ago)
@@ -56,7 +57,6 @@ passions:
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape (1 week ago)
 - [nix-community/nixpkgs-pytools](https://github.com/nix-community/nixpkgs-pytools) - Tools for removing the tedious nature of creating nixpkgs derivations [maintainer=@costrouc] (1 week ago)
 - [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure) - Scan your uv.lock file for dependencies with known vulnerabilities (1 week ago)
-- [abusix/querycontacts](https://github.com/abusix/querycontacts) - Query network abuse contacts for a given ip address on abuse-contacts.abusix.zone (2 weeks ago)
 
 #### 😱 My recent pull requests
 
