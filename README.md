@@ -50,7 +50,7 @@ passions:
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 day ago)
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (1 day ago)
 - [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (2 days ago)
-- [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - @agh&#39;s Style Guide 🎩 (3 days ago)
+- [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Wandering | 👩🏼‍💻 Tech Style Guide (3 days ago)
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (4 days ago)
 - [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) -  (6 days ago)
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (6 days ago)
