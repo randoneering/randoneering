@@ -26,13 +26,13 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (today)
 - [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 days ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 weeks ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (3 weeks ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 month ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (7 months ago)
 
@@ -50,7 +50,7 @@ passions:
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 days ago)
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (2 days ago)
 - [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (3 days ago)
-- [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Wandering | 👩🏼‍💻 Tech Style Guide (4 days ago)
+- [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - Doctrine 👩🏼‍💻 Tech Style Guide | Attempting to keep code, documentation and our approach to technical projects consistent. Useful for AI-assisted 🤖 development, just instruct Claude, Gemini and Codex to check they complied with Doctrine! (4 days ago)
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (5 days ago)
 - [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) -  (1 week ago)
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 week ago)
