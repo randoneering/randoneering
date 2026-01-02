@@ -26,9 +26,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (1 day ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 day ago)
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (3 days ago)
+- [randoneering/nix-flake](https://github.com/randoneering/nix-flake) - My multi-system flake.  (2 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 days ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 days ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 weeks ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (3 weeks ago)
@@ -47,24 +47,24 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 day ago)
-- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (1 day ago)
-- [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (2 days ago)
-- [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Wandering | 👩🏼‍💻 Tech Style Guide (3 days ago)
-- [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (4 days ago)
-- [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) -  (6 days ago)
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (6 days ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 days ago)
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (2 days ago)
+- [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (3 days ago)
+- [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Welsh Wandering | 👩🏼‍💻 Tech Style Guide (4 days ago)
+- [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (5 days ago)
+- [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) -  (1 week ago)
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 week ago)
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (1 week ago)
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape (1 week ago)
 - [nix-community/nixpkgs-pytools](https://github.com/nix-community/nixpkgs-pytools) - Tools for removing the tedious nature of creating nixpkgs derivations [maintainer=@costrouc] (1 week ago)
 
 #### 😱 My recent pull requests
 
-- [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (2 days ago)
-- [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 weeks ago)
-- [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (2 weeks ago)
-- [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (2 weeks ago)
+- [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 days ago)
+- [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (3 weeks ago)
+- [updating popping and locking to v1.0.1](https://github.com/randoneering/extensions/pull/1) on [randoneering/extensions](https://github.com/randoneering/extensions) (3 weeks ago)
+- [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (3 weeks ago)
 - [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 weeks ago)
 - [Feature/auto timezone](https://github.com/mkellyxp/nixbook/pull/51) on [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) (1 month ago)
 - [Feature/milestone2](https://github.com/randoneering/pgFirstAid/pull/16) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
