@@ -26,9 +26,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 day ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 days ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (5 days ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (2 days ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (6 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 weeks ago)
@@ -46,10 +46,10 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (5 days ago)
-- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (5 days ago)
-- [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (6 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 days ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (6 days ago)
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (6 days ago)
+- [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (1 week ago)
 - [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - Doctrine 👩🏼‍💻 Tech Style Guide | Attempting to keep code, documentation and our approach to technical projects consistent. Useful for AI-assisted 🤖 development, just instruct Claude, Gemini and Codex to check they complied with Doctrine! (1 week ago)
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (1 week ago)
 - [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) - A clean, modular Bash prompt with just the right amount of features. (1 week ago)
@@ -59,8 +59,8 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [adding forgejo](https://github.com/traefikturkey/onramp/pull/51) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 day ago)
-- [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 days ago)
+- [adding forgejo](https://github.com/traefikturkey/onramp/pull/51) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (2 days ago)
+- [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 week ago)
 - [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (3 weeks ago)
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (3 weeks ago)
