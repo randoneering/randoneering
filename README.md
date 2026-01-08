@@ -26,12 +26,12 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 day ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 days ago)
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (3 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 days ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 days ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 weeks ago)
-- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 weeks ago)
+- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (4 weeks ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (4 weeks ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 months ago)
 - [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (7 months ago)
@@ -46,8 +46,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 days ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (1 week ago)
 - [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (1 week ago)
@@ -55,13 +55,13 @@ passions:
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (1 week ago)
 - [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) - A clean, modular Bash prompt with just the right amount of features. (1 week ago)
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in. (1 week ago)
-- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (1 week ago)
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
-- [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
-- [Feature/milestone3](https://github.com/randoneering/pgFirstAid/pull/17) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
-- [adding forgejo](https://github.com/traefikturkey/onramp/pull/51) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 days ago)
+- [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 days ago)
+- [Feature/milestone3](https://github.com/randoneering/pgFirstAid/pull/17) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 days ago)
+- [adding forgejo](https://github.com/traefikturkey/onramp/pull/51) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (4 days ago)
 - [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 week ago)
 - [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (3 weeks ago)
@@ -72,7 +72,7 @@ passions:
 
 #### 📰 Words I put together to look smart
 
-- [pgFirstAid - Milestone 2 and 3!](/blog/pgfirstaid/pgfirstaid_m3/) (1 day ago)
+- [pgFirstAid - Milestone 2 and 3!](/blog/pgfirstaid/pgfirstaid_m3/) (2 days ago)
 - [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (1 month ago)
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (4 months ago)
 - [SCALE 22x](/blog/foss/scale22x/) (10 months ago)
