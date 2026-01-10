@@ -26,7 +26,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 day ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (5 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (6 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
@@ -59,6 +59,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Chore/remove mastodon](https://github.com/randoneering/hugosite/pull/6) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (today)
 - [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
 - [Feature/milestone3](https://github.com/randoneering/pgFirstAid/pull/17) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
 - [adding forgejo](https://github.com/traefikturkey/onramp/pull/51) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (6 days ago)
@@ -68,7 +69,6 @@ passions:
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (4 weeks ago)
 - [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 month ago)
 - [Feature/auto timezone](https://github.com/mkellyxp/nixbook/pull/51) on [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) (1 month ago)
-- [Feature/milestone2](https://github.com/randoneering/pgFirstAid/pull/16) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
