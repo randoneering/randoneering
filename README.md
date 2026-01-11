@@ -26,6 +26,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (6 days ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 week ago)
@@ -38,6 +39,7 @@ passions:
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools.
@@ -46,6 +48,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [viktoriasemaan/ai-agents](https://github.com/viktoriasemaan/ai-agents) - AI Agents with Bedrock (today)
 - [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) - A curated list of awesome things related to Marp (1 day ago)
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (1 day ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 days ago)
@@ -55,7 +58,6 @@ passions:
 - [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (1 week ago)
 - [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - Doctrine 👩🏼‍💻 Tech Style Guide | Attempting to keep code, documentation and our approach to technical projects consistent. Useful for AI-assisted 🤖 development, just instruct Claude, Gemini and Codex to check they complied with Doctrine! (1 week ago)
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (2 weeks ago)
-- [nix-tricks/nix-prompt](https://github.com/nix-tricks/nix-prompt) - A clean, modular Bash prompt with just the right amount of features. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
