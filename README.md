@@ -26,6 +26,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (today)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
@@ -35,10 +36,10 @@ passions:
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 month ago)
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (1 month ago)
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 months ago)
-- [NerdyDayTrips/website](https://github.com/NerdyDayTrips/website) - A crowd-sourced map of fascinating places for curious people. (7 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE
 - [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian
