@@ -27,6 +27,8 @@ passions:
 #### ☕ Check out what I'm currently working on (probably flakes)
 
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (1 day ago)
+- [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (1 day ago)
+- [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (1 day ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 days ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
@@ -34,11 +36,11 @@ passions:
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (4 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 month ago)
-- [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE (1 month ago)
-- [randoneering/popping-locking-obsidian-theme](https://github.com/randoneering/popping-locking-obsidian-theme) - A port of the &#34;Popping and Locking&#34; theme for Obsidian (2 months ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) - 
+- [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) - 
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data
 - [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE
