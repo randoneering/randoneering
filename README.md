@@ -26,9 +26,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (1 day ago)
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (1 day ago)
 - [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (1 day ago)
-- [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (1 day ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 days ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
