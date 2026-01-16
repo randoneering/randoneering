@@ -26,11 +26,11 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (3 days ago)
-- [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (3 days ago)
-- [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (3 days ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (4 days ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (6 days ago)
+- [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (4 days ago)
+- [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (4 days ago)
+- [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (4 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (5 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 week ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 weeks ago)
@@ -51,9 +51,9 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [viktoriasemaan/ai-agents](https://github.com/viktoriasemaan/ai-agents) - AI Agents with Bedrock (4 days ago)
-- [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) - A curated list of awesome things related to Marp (5 days ago)
-- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (5 days ago)
+- [viktoriasemaan/ai-agents](https://github.com/viktoriasemaan/ai-agents) - AI Agents with Bedrock (5 days ago)
+- [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) - A curated list of awesome things related to Marp (6 days ago)
+- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (6 days ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 weeks ago)
@@ -64,12 +64,12 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Chore/remove mastodon](https://github.com/randoneering/hugosite/pull/6) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (5 days ago)
+- [Chore/remove mastodon](https://github.com/randoneering/hugosite/pull/6) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (6 days ago)
 - [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [Feature/milestone3](https://github.com/randoneering/pgFirstAid/pull/17) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [adding forgejo](https://github.com/traefikturkey/onramp/pull/51) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 week ago)
 - [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (2 weeks ago)
-- [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
+- [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 weeks ago)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 month ago)
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (1 month ago)
 - [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 month ago)
