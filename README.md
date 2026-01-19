@@ -26,9 +26,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (today)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 days ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 days ago)
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (1 week ago)
 - [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (1 week ago)
 - [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (1 week ago)
@@ -64,6 +64,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/20) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [adding workaround logic for RDS](https://github.com/randoneering/pgFirstAid/pull/19) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
 - [Chore/remove mastodon](https://github.com/randoneering/hugosite/pull/6) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (1 week ago)
 - [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
@@ -73,7 +74,6 @@ passions:
 - [fresh-editor:init at 0.1.56](https://github.com/NixOS/nixpkgs/pull/472278) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [Update Popping and Locking to v1.0.1](https://github.com/zed-industries/extensions/pull/4131) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 month ago)
 - [changed focus color to red](https://github.com/randoneering/popping-and-locking-zed-theme/pull/2) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (1 month ago)
-- [new:adding postgresus](https://github.com/traefikturkey/onramp/pull/45) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
