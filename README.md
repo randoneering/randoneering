@@ -51,6 +51,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated. (today)
 - [viktoriasemaan/ai-agents](https://github.com/viktoriasemaan/ai-agents) - AI Agents with Bedrock (1 week ago)
 - [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) - A curated list of awesome things related to Marp (1 week ago)
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (1 week ago)
@@ -60,7 +61,6 @@ passions:
 - [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (3 weeks ago)
 - [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (3 weeks ago)
 - [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - Doctrine 👩🏼‍💻 Tech Style Guide | Attempting to keep code, documentation and our approach to technical projects consistent. Useful for AI-assisted 🤖 development, just instruct Claude, Gemini and Codex to check they complied with Doctrine! (3 weeks ago)
-- [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (3 weeks ago)
 
 #### 😱 My recent pull requests
 
