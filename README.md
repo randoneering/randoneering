@@ -26,9 +26,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (today)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 day ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (4 days ago)
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (1 week ago)
 - [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (1 week ago)
 - [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (1 week ago)
@@ -54,19 +54,19 @@ passions:
 - [viktoriasemaan/ai-agents](https://github.com/viktoriasemaan/ai-agents) - AI Agents with Bedrock (1 week ago)
 - [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) - A curated list of awesome things related to Marp (1 week ago)
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (1 week ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 weeks ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 weeks ago)
-- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (2 weeks ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (3 weeks ago)
+- [JamesTurland/JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies (3 weeks ago)
 - [ilude/claude-code-config](https://github.com/ilude/claude-code-config) - Personal Claude Code configuration files (ruleset, commands, settings) (3 weeks ago)
 - [welshwandering/doctrine](https://github.com/welshwandering/doctrine) - Doctrine 👩🏼‍💻 Tech Style Guide | Attempting to keep code, documentation and our approach to technical projects consistent. Useful for AI-assisted 🤖 development, just instruct Claude, Gemini and Codex to check they complied with Doctrine! (3 weeks ago)
 - [tkeffer/weewx-postgresql](https://github.com/tkeffer/weewx-postgresql) - WeeWX extension to support the PostgreSQL database (3 weeks ago)
 
 #### 😱 My recent pull requests
 
-- [Release/1.4.0](https://github.com/randoneering/pgFirstAid/pull/21) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
-- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/20) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
-- [adding workaround logic for RDS](https://github.com/randoneering/pgFirstAid/pull/19) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
+- [Release/1.4.0](https://github.com/randoneering/pgFirstAid/pull/21) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
+- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/20) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 days ago)
+- [adding workaround logic for RDS](https://github.com/randoneering/pgFirstAid/pull/19) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (5 days ago)
 - [Chore/remove mastodon](https://github.com/randoneering/hugosite/pull/6) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (1 week ago)
 - [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/milestone3](https://github.com/randoneering/pgFirstAid/pull/17) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
