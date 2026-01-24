@@ -86,10 +86,10 @@ passions:
 #### 💜 Recent followers
 
 - [vivekanandan-ks](https://github.com/vivekanandan-ks)
-- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 - [Gravifer](https://github.com/Gravifer)
+- [989139835182](https://github.com/989139835182)
 
 #### ✌️ Contact!
 
