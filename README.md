@@ -51,16 +51,16 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [ColinMario/Protondrive-for-Linux](https://github.com/ColinMario/Protondrive-for-Linux) -  Protondrive CLI delivers a rclone-based command-line tool for configuring, syncing, and mounting Proton Drive remotes, complete with an encrypted credential vault, watch-enabled sync workflows, and handy JSON templates for common upload/download scenarios. (today)
+- [mdickers47/rtldavis](https://github.com/mdickers47/rtldavis) - rtl-sdr data logger for Davis weather stations, with graphite output (today)
+- [bemasher/rtldavis](https://github.com/bemasher/rtldavis) - An rtl-sdr receiver for Davis Instruments weather stations. (today)
+- [lheijst/weewx-rtldavis](https://github.com/lheijst/weewx-rtldavis) - weewx driver that captures data from software-defined radio  using the rtldavis software. (today)
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises. (3 days ago)
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (3 days ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 days ago)
 - [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated. (4 days ago)
 - [viktoriasemaan/ai-agents](https://github.com/viktoriasemaan/ai-agents) - AI Agents with Bedrock (2 weeks ago)
 - [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) - A curated list of awesome things related to Marp (2 weeks ago)
-- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (2 weeks ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 weeks ago)
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (3 weeks ago)
 
 #### 😱 My recent pull requests
 
