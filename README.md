@@ -26,8 +26,8 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (today)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 day ago)
-- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (6 days ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (6 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 week ago)
@@ -64,6 +64,8 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Update Popping and Locking theme to v.1.0.3](https://github.com/zed-industries/extensions/pull/4642) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (today)
+- [Update Popping and Locking Theme to v1.0.3](https://github.com/randoneering/popping-and-locking-zed-theme/pull/4) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (today)
 - [Update popping-and-locking theme to v1.0.2](https://github.com/zed-industries/extensions/pull/4573) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (5 days ago)
 - [Feature/highlight file folder](https://github.com/randoneering/popping-and-locking-zed-theme/pull/3) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (5 days ago)
 - [Release/1.4.0](https://github.com/randoneering/pgFirstAid/pull/21) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
@@ -72,8 +74,6 @@ passions:
 - [Chore/remove mastodon](https://github.com/randoneering/hugosite/pull/6) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (2 weeks ago)
 - [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [Feature/milestone3](https://github.com/randoneering/pgFirstAid/pull/17) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
-- [adding forgejo](https://github.com/traefikturkey/onramp/pull/51) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (3 weeks ago)
-- [added databasus as it will replace postgresus](https://github.com/traefikturkey/onramp/pull/46) on [traefikturkey/onramp](https://github.com/traefikturkey/onramp) (4 weeks ago)
 
 #### 📰 Words I put together to look smart
 
