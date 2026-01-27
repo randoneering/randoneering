@@ -51,6 +51,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (today)
 - [ColinMario/Protondrive-for-Linux](https://github.com/ColinMario/Protondrive-for-Linux) -  Protondrive CLI delivers a rclone-based command-line tool for configuring, syncing, and mounting Proton Drive remotes, complete with an encrypted credential vault, watch-enabled sync workflows, and handy JSON templates for common upload/download scenarios. (2 days ago)
 - [mdickers47/rtldavis](https://github.com/mdickers47/rtldavis) - rtl-sdr data logger for Davis weather stations, with graphite output (2 days ago)
 - [bemasher/rtldavis](https://github.com/bemasher/rtldavis) - An rtl-sdr receiver for Davis Instruments weather stations. (2 days ago)
@@ -60,7 +61,6 @@ passions:
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (5 days ago)
 - [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated. (6 days ago)
 - [viktoriasemaan/ai-agents](https://github.com/viktoriasemaan/ai-agents) - AI Agents with Bedrock (2 weeks ago)
-- [marp-team/awesome-marp](https://github.com/marp-team/awesome-marp) - A curated list of awesome things related to Marp (2 weeks ago)
 
 #### 😱 My recent pull requests
 
