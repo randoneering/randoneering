@@ -1,12 +1,3 @@
-![randoneering_logo_main](https://github.com/user-attachments/assets/6b9c7958-17b5-4df4-8959-ffaaf2af9e44)
-
-<div align="center">
-🦇 Oh, hello there! <img src="https://media.hachyderm.io/custom_emojis/images/000/048/515/static/a76b693d09368634.png" height="15px" width="15px"> </img>
-
-</div>
-
-<div align="left">
-
 ```yaml
 name: "Justin (Randoneering™)"
 role: "Founding Randoneer @ Randoneering, LLC and Senior Data Engineer @ RxBenefits, Inc"
@@ -93,5 +84,4 @@ passions:
 
 #### ✌️ Contact!
 
-- Fediverse: https://hachyderm.io/@randoneering
 - Blog: https://randoneering.tech
