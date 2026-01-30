@@ -76,11 +76,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [SreenivasKalahasti](https://github.com/SreenivasKalahasti)
 - [vivekanandan-ks](https://github.com/vivekanandan-ks)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
 - [Gravifer](https://github.com/Gravifer)
 - [989139835182](https://github.com/989139835182)
-- [lalomorales22](https://github.com/lalomorales22)
 
 #### ✌️ Contact!
 
