@@ -17,7 +17,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (3 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (today)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (4 days ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (5 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
