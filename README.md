@@ -17,15 +17,15 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 days ago)
-- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (6 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 day ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 days ago)
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 days ago)
+- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (3 weeks ago)
 - [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (3 weeks ago)
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (3 weeks ago)
-- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (4 weeks ago)
+- [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
@@ -42,8 +42,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 days ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (6 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (4 days ago)
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 week ago)
 - [ColinMario/Protondrive-for-Linux](https://github.com/ColinMario/Protondrive-for-Linux) -  Protondrive CLI delivers a rclone-based command-line tool for configuring, syncing, and mounting Proton Drive remotes, complete with an encrypted credential vault, watch-enabled sync workflows, and handy JSON templates for common upload/download scenarios. (1 week ago)
 - [mdickers47/rtldavis](https://github.com/mdickers47/rtldavis) - rtl-sdr data logger for Davis weather stations, with graphite output (1 week ago)
 - [bemasher/rtldavis](https://github.com/bemasher/rtldavis) - An rtl-sdr receiver for Davis Instruments weather stations. (1 week ago)
@@ -55,23 +55,23 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Update Popping and Locking theme to v1.0.3](https://github.com/zed-industries/extensions/pull/4642) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (6 days ago)
-- [Update Popping and Locking Theme to v1.0.3](https://github.com/randoneering/popping-and-locking-zed-theme/pull/4) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (6 days ago)
+- [adding DO sponsorship](https://github.com/randoneering/pgFirstAid/pull/22) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
+- [Update Popping and Locking theme to v1.0.3](https://github.com/zed-industries/extensions/pull/4642) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 week ago)
+- [Update Popping and Locking Theme to v1.0.3](https://github.com/randoneering/popping-and-locking-zed-theme/pull/4) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (1 week ago)
 - [Update popping-and-locking theme to v1.0.2](https://github.com/zed-industries/extensions/pull/4573) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 week ago)
 - [Feature/highlight file folder](https://github.com/randoneering/popping-and-locking-zed-theme/pull/3) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (1 week ago)
-- [Release/1.4.0](https://github.com/randoneering/pgFirstAid/pull/21) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
+- [Release/1.4.0](https://github.com/randoneering/pgFirstAid/pull/21) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/20) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [adding workaround logic for RDS](https://github.com/randoneering/pgFirstAid/pull/19) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Chore/remove mastodon](https://github.com/randoneering/hugosite/pull/6) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (3 weeks ago)
-- [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
-- [Feature/milestone3](https://github.com/randoneering/pgFirstAid/pull/17) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
+- [fix readme format](https://github.com/randoneering/pgFirstAid/pull/18) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
 
 #### 📰 Words I put together to look smart
 
-- [pgFirstAid - Milestone 2 and 3!](/blog/pgfirstaid/pgfirstaid_m3/) (3 weeks ago)
+- [pgFirstAid - Milestone 2 and 3!](/blog/pgfirstaid/pgfirstaid_m3/) (4 weeks ago)
 - [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (2 months ago)
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (5 months ago)
-- [SCALE 22x](/blog/foss/scale22x/) (10 months ago)
+- [SCALE 22x](/blog/foss/scale22x/) (11 months ago)
 - [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (1 year ago)
 
 #### 💜 Recent followers
