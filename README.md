@@ -76,11 +76,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [jusot99](https://github.com/jusot99)
 - [monad-one](https://github.com/monad-one)
 - [SreenivasKalahasti](https://github.com/SreenivasKalahasti)
 - [vivekanandan-ks](https://github.com/vivekanandan-ks)
 - [Datawitch-Programmer](https://github.com/Datawitch-Programmer)
-- [Gravifer](https://github.com/Gravifer)
 
 #### ✌️ Contact!
 
