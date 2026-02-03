@@ -42,6 +42,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (today)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (4 days ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 week ago)
 - [ColinMario/Protondrive-for-Linux](https://github.com/ColinMario/Protondrive-for-Linux) -  Protondrive CLI delivers a rclone-based command-line tool for configuring, syncing, and mounting Proton Drive remotes, complete with an encrypted credential vault, watch-enabled sync workflows, and handy JSON templates for common upload/download scenarios. (1 week ago)
@@ -51,7 +52,6 @@ passions:
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises. (1 week ago)
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (1 week ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 week ago)
-- [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated. (1 week ago)
 
 #### 😱 My recent pull requests
 
