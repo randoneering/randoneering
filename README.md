@@ -42,6 +42,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (today)
 - [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (2 days ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (6 days ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 week ago)
@@ -51,7 +52,6 @@ passions:
 - [lheijst/weewx-rtldavis](https://github.com/lheijst/weewx-rtldavis) - weewx driver that captures data from software-defined radio  using the rtldavis software. (1 week ago)
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises. (2 weeks ago)
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (2 weeks ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
