@@ -17,9 +17,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (today)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 days ago)
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (5 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 days ago)
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (6 days ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (3 weeks ago)
@@ -42,9 +42,9 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (today)
-- [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (2 days ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (6 days ago)
+- [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (1 day ago)
+- [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (3 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 week ago)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 week ago)
 - [ColinMario/Protondrive-for-Linux](https://github.com/ColinMario/Protondrive-for-Linux) -  Protondrive CLI delivers a rclone-based command-line tool for configuring, syncing, and mounting Proton Drive remotes, complete with an encrypted credential vault, watch-enabled sync workflows, and handy JSON templates for common upload/download scenarios. (1 week ago)
 - [mdickers47/rtldavis](https://github.com/mdickers47/rtldavis) - rtl-sdr data logger for Davis weather stations, with graphite output (1 week ago)
@@ -55,10 +55,10 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (1 day ago)
-- [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (1 day ago)
-- [update script using uv and removing python 2 dependencies](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/1) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (1 day ago)
-- [adding DO sponsorship](https://github.com/randoneering/pgFirstAid/pull/22) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 days ago)
+- [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (2 days ago)
+- [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (2 days ago)
+- [update script using uv and removing python 2 dependencies](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/1) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (2 days ago)
+- [adding DO sponsorship](https://github.com/randoneering/pgFirstAid/pull/22) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
 - [Update Popping and Locking theme to v1.0.3](https://github.com/zed-industries/extensions/pull/4642) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (1 week ago)
 - [Update Popping and Locking Theme to v1.0.3](https://github.com/randoneering/popping-and-locking-zed-theme/pull/4) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (1 week ago)
 - [Update popping-and-locking theme to v1.0.2](https://github.com/zed-industries/extensions/pull/4573) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 weeks ago)
