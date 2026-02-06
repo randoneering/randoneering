@@ -42,6 +42,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively. (today)
 - [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (1 day ago)
 - [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (3 days ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 week ago)
@@ -51,7 +52,6 @@ passions:
 - [bemasher/rtldavis](https://github.com/bemasher/rtldavis) - An rtl-sdr receiver for Davis Instruments weather stations. (1 week ago)
 - [lheijst/weewx-rtldavis](https://github.com/lheijst/weewx-rtldavis) - weewx driver that captures data from software-defined radio  using the rtldavis software. (1 week ago)
 - [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises. (2 weeks ago)
-- [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
