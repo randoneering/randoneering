@@ -42,6 +42,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been. (today)
 - [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively. (1 day ago)
 - [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (2 days ago)
 - [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (4 days ago)
@@ -51,7 +52,6 @@ passions:
 - [mdickers47/rtldavis](https://github.com/mdickers47/rtldavis) - rtl-sdr data logger for Davis weather stations, with graphite output (1 week ago)
 - [bemasher/rtldavis](https://github.com/bemasher/rtldavis) - An rtl-sdr receiver for Davis Instruments weather stations. (1 week ago)
 - [lheijst/weewx-rtldavis](https://github.com/lheijst/weewx-rtldavis) - weewx driver that captures data from software-defined radio  using the rtldavis software. (1 week ago)
-- [openeverest/openeverest](https://github.com/openeverest/openeverest) - OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
