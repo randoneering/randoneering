@@ -23,9 +23,9 @@ passions:
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 week ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 weeks ago)
-- [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (3 weeks ago)
 - [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (3 weeks ago)
 - [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (3 weeks ago)
+- [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (3 weeks ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 month ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (today)
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension (1 day ago)
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been. (1 day ago)
 - [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively. (2 days ago)
@@ -52,7 +53,6 @@ passions:
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (1 week ago)
 - [ColinMario/Protondrive-for-Linux](https://github.com/ColinMario/Protondrive-for-Linux) -  Protondrive CLI delivers a rclone-based command-line tool for configuring, syncing, and mounting Proton Drive remotes, complete with an encrypted credential vault, watch-enabled sync workflows, and handy JSON templates for common upload/download scenarios. (2 weeks ago)
 - [mdickers47/rtldavis](https://github.com/mdickers47/rtldavis) - rtl-sdr data logger for Davis weather stations, with graphite output (2 weeks ago)
-- [bemasher/rtldavis](https://github.com/bemasher/rtldavis) - An rtl-sdr receiver for Davis Instruments weather stations. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
