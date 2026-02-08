@@ -17,14 +17,14 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nvim-kickstart](https://github.com/randoneering/nvim-kickstart) - Neovim Kickstart Flake (1 day ago)
+- [randoneering/nvim-kickstart](https://github.com/randoneering/nvim-kickstart) - Neovim Kickstart Flake (today)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (3 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (6 days ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 week ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 weeks ago)
-- [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (3 weeks ago)
 - [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (3 weeks ago)
+- [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) -  (3 weeks ago)
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (3 weeks ago)
 - [traefikturkey/onramp](https://github.com/traefikturkey/onramp) - Traefik with all the stuffing. Onramp is a docker compose setup designed to allow users to get up to speed quickly and securely using Traefik, LetsEncrypt, Cloudflare Tunnels and other popular self hosted home lab services. (1 month ago)
 
