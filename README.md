@@ -17,9 +17,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (today)
 - [randoneering/nvim-kickstart](https://github.com/randoneering/nvim-kickstart) - Neovim Kickstart Flake (1 day ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (4 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 week ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (3 weeks ago)
@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Feature/sponsors update](https://github.com/randoneering/pgFirstAid/pull/23) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (5 days ago)
 - [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (5 days ago)
 - [update script using uv and removing python 2 dependencies](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/1) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (5 days ago)
@@ -65,7 +66,6 @@ passions:
 - [Update popping-and-locking theme to v1.0.2](https://github.com/zed-industries/extensions/pull/4573) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 weeks ago)
 - [Feature/highlight file folder](https://github.com/randoneering/popping-and-locking-zed-theme/pull/3) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (2 weeks ago)
 - [Release/1.4.0](https://github.com/randoneering/pgFirstAid/pull/21) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
-- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/20) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 
 #### 📰 Words I put together to look smart
 
