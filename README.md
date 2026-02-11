@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [Feature/sponsors update](https://github.com/randoneering/pgFirstAid/pull/23) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 days ago)
 - [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (1 week ago)
 - [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (1 week ago)
@@ -65,7 +66,6 @@ passions:
 - [Update Popping and Locking Theme to v1.0.3](https://github.com/randoneering/popping-and-locking-zed-theme/pull/4) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (2 weeks ago)
 - [Update popping-and-locking theme to v1.0.2](https://github.com/zed-industries/extensions/pull/4573) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 weeks ago)
 - [Feature/highlight file folder](https://github.com/randoneering/popping-and-locking-zed-theme/pull/3) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (2 weeks ago)
-- [Release/1.4.0](https://github.com/randoneering/pgFirstAid/pull/21) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 
 #### 📰 Words I put together to look smart
 
