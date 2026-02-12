@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (today)
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS (3 days ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (4 days ago)
@@ -52,7 +53,6 @@ passions:
 - [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (1 week ago)
 - [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (1 week ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 week ago)
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible (2 weeks ago)
 
 #### 😱 My recent pull requests
 
