@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (today)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 days ago)
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (2 days ago)
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS (5 days ago)
@@ -52,7 +53,6 @@ passions:
 - [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively. (1 week ago)
 - [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (1 week ago)
 - [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (1 week ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
