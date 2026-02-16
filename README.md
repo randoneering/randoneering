@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (today)
 - [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (today)
 - [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
 - [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (5 days ago)
@@ -65,7 +66,6 @@ passions:
 - [update script using uv and removing python 2 dependencies](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/1) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (1 week ago)
 - [adding DO sponsorship](https://github.com/randoneering/pgFirstAid/pull/22) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [Update Popping and Locking theme to v1.0.3](https://github.com/zed-industries/extensions/pull/4642) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (2 weeks ago)
-- [Update Popping and Locking Theme to v1.0.3](https://github.com/randoneering/popping-and-locking-zed-theme/pull/4) on [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) (2 weeks ago)
 
 #### 📰 Words I put together to look smart
 
