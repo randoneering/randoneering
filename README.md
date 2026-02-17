@@ -43,6 +43,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (today)
+- [BladeWDR/infra](https://github.com/BladeWDR/infra) - Homelab Infrastructure Repo (today)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (3 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (5 days ago)
@@ -51,8 +53,6 @@ passions:
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension (1 week ago)
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been. (1 week ago)
 - [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively. (1 week ago)
-- [disler/claude-code-damage-control](https://github.com/disler/claude-code-damage-control) -  (1 week ago)
-- [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) - Python scripts to import StackExchange data dump into Postgres DB. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
