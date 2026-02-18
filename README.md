@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [AnarchoBooleanism/nixos-cloud-init-installer](https://github.com/AnarchoBooleanism/nixos-cloud-init-installer) - A minimal NixOS flake with cloud-init designed for use as an installer ISO image for provisioning virtual machines (today)
 - [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (1 day ago)
 - [BladeWDR/infra](https://github.com/BladeWDR/infra) - Homelab Infrastructure Repo (1 day ago)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (4 days ago)
@@ -52,7 +53,6 @@ passions:
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 week ago)
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension (1 week ago)
 - [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been. (1 week ago)
-- [dbt-labs/dbt-agent-skills](https://github.com/dbt-labs/dbt-agent-skills) - A curated collection of Agent Skills for working with dbt, to help AI agents understand and execute dbt workflows more effectively. (1 week ago)
 
 #### 😱 My recent pull requests
 
