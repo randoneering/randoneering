@@ -17,10 +17,10 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (2 days ago)
-- [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (3 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 days ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (5 days ago)
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (3 days ago)
+- [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (4 days ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (5 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (6 days ago)
 - [randoneering/nvim-kickstart](https://github.com/randoneering/nvim-kickstart) - Neovim Kickstart Flake (1 week ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 weeks ago)
@@ -43,11 +43,11 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (today)
-- [BladeWDR/infra](https://github.com/BladeWDR/infra) - Homelab Infrastructure Repo (today)
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (3 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
-- [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (5 days ago)
+- [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (1 day ago)
+- [BladeWDR/infra](https://github.com/BladeWDR/infra) - Homelab Infrastructure Repo (1 day ago)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (4 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (6 days ago)
+- [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (6 days ago)
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS (1 week ago)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration (1 week ago)
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension (1 week ago)
@@ -56,14 +56,14 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (1 day ago)
-- [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 day ago)
-- [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
-- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (6 days ago)
+- [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (2 days ago)
+- [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (2 days ago)
+- [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (5 days ago)
+- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [Feature/sponsors update](https://github.com/randoneering/pgFirstAid/pull/23) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
-- [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (1 week ago)
-- [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (1 week ago)
-- [update script using uv and removing python 2 dependencies](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/1) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (1 week ago)
+- [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (2 weeks ago)
+- [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (2 weeks ago)
+- [update script using uv and removing python 2 dependencies](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/1) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (2 weeks ago)
 - [adding DO sponsorship](https://github.com/randoneering/pgFirstAid/pull/22) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Update Popping and Locking theme to v1.0.3](https://github.com/zed-industries/extensions/pull/4642) on [zed-industries/extensions](https://github.com/zed-industries/extensions) (3 weeks ago)
 
