@@ -17,7 +17,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (1 day ago)
+- [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (today)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 days ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (1 week ago)
 - [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (1 week ago)
