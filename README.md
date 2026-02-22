@@ -26,7 +26,7 @@ passions:
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (3 weeks ago)
 - [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (3 weeks ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 month ago)
-- [randoneering/randoneering-automation](https://github.com/randoneering/randoneering-automation) -  (1 month ago)
+- [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization (1 month ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
