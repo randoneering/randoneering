@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [cortex: init at 0.26.0](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 - [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (1 week ago)
 - [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 week ago)
@@ -65,7 +66,6 @@ passions:
 - [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (3 weeks ago)
 - [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (3 weeks ago)
 - [update script using uv and removing python 2 dependencies](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/1) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (3 weeks ago)
-- [adding DO sponsorship](https://github.com/randoneering/pgFirstAid/pull/22) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 
 #### 📰 Words I put together to look smart
 
