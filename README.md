@@ -77,11 +77,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [jusot99](https://github.com/jusot99)
 - [monad-one](https://github.com/monad-one)
 - [SreenivasKalahasti](https://github.com/SreenivasKalahasti)
-- [vivekanandan-ks](https://github.com/vivekanandan-ks)
 
 #### ✌️ Contact!
 
