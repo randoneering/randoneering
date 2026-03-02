@@ -17,8 +17,8 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 day ago)
 - [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (6 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (2 weeks ago)
 - [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (2 weeks ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 weeks ago)
@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (2 days ago)
 - [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
 - [cortex: init at 0.26.0](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
@@ -65,7 +66,6 @@ passions:
 - [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/sponsors update](https://github.com/randoneering/pgFirstAid/pull/23) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (3 weeks ago)
-- [[Snyk] Fix for 2 vulnerabilities](https://github.com/randoneering/stackexchange-dump-to-postgres/pull/2) on [randoneering/stackexchange-dump-to-postgres](https://github.com/randoneering/stackexchange-dump-to-postgres) (3 weeks ago)
 
 #### 📰 Words I put together to look smart
 
