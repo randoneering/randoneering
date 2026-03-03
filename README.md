@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (today)
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
 - [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 days ago)
 - [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (5 days ago)
@@ -65,7 +66,6 @@ passions:
 - [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/sponsors update](https://github.com/randoneering/pgFirstAid/pull/23) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
-- [update script using uv and removing python 2 dependencies](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres/pull/27) on [Human-Centric-Machine-Learning/stackexchange-dump-to-postgres](https://github.com/Human-Centric-Machine-Learning/stackexchange-dump-to-postgres) (3 weeks ago)
 
 #### 📰 Words I put together to look smart
 
