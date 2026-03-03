@@ -17,8 +17,8 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 day ago)
-- [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (6 days ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 days ago)
+- [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (1 week ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (2 weeks ago)
 - [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (2 weeks ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 weeks ago)
@@ -43,12 +43,12 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [pgEdge/pgedge-loadgen](https://github.com/pgEdge/pgedge-loadgen) - A load generator for PostgreSQL (today)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (2 days ago)
+- [pgEdge/pgedge-loadgen](https://github.com/pgEdge/pgedge-loadgen) - A load generator for PostgreSQL (1 day ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (3 days ago)
 - [Niehztog/freshrss-af-readability](https://github.com/Niehztog/freshrss-af-readability) - Article full text FreshRSS extension (1 week ago)
 - [AnarchoBooleanism/nixos-cloud-init-installer](https://github.com/AnarchoBooleanism/nixos-cloud-init-installer) - A minimal NixOS flake with cloud-init designed for use as an installer ISO image for provisioning virtual machines (1 week ago)
-- [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (1 week ago)
-- [BladeWDR/infra](https://github.com/BladeWDR/infra) - Homelab Infrastructure Repo (1 week ago)
+- [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (2 weeks ago)
+- [BladeWDR/infra](https://github.com/BladeWDR/infra) - Homelab Infrastructure Repo (2 weeks ago)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (2 weeks ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (2 weeks ago)
 - [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (2 weeks ago)
@@ -56,9 +56,9 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
-- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (2 days ago)
-- [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
+- [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 day ago)
+- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 days ago)
+- [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (5 days ago)
 - [cortex: init at 0.26.0](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (2 weeks ago)
 - [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (2 weeks ago)
