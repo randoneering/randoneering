@@ -17,10 +17,10 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 days ago)
-- [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (2 days ago)
-- [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw) (3 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (4 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (3 days ago)
+- [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (3 days ago)
+- [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw) (4 days ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (5 days ago)
 - [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (1 week ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (2 weeks ago)
 - [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (2 weeks ago)
@@ -43,8 +43,8 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [pgEdge/pgedge-loadgen](https://github.com/pgEdge/pgedge-loadgen) - A load generator for PostgreSQL (3 days ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (5 days ago)
+- [pgEdge/pgedge-loadgen](https://github.com/pgEdge/pgedge-loadgen) - A load generator for PostgreSQL (4 days ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (6 days ago)
 - [Niehztog/freshrss-af-readability](https://github.com/Niehztog/freshrss-af-readability) - Article full text FreshRSS extension (1 week ago)
 - [AnarchoBooleanism/nixos-cloud-init-installer](https://github.com/AnarchoBooleanism/nixos-cloud-init-installer) - A minimal NixOS flake with cloud-init designed for use as an installer ISO image for provisioning virtual machines (2 weeks ago)
 - [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (2 weeks ago)
@@ -56,14 +56,14 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (2 days ago)
-- [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 days ago)
-- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (5 days ago)
+- [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (3 days ago)
+- [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 days ago)
+- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (6 days ago)
 - [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
-- [cortex: init at 0.26.0](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [cortex: init at 0.26.0](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (2 weeks ago)
 - [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (2 weeks ago)
-- [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
+- [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [Feature/sponsors update](https://github.com/randoneering/pgFirstAid/pull/23) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 
@@ -77,11 +77,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [jimbrig](https://github.com/jimbrig)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [jusot99](https://github.com/jusot99)
 - [monad-one](https://github.com/monad-one)
 - [SreenivasKalahasti](https://github.com/SreenivasKalahasti)
-- [vivekanandan-ks](https://github.com/vivekanandan-ks)
 
 #### ✌️ Contact!
 
