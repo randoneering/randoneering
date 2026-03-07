@@ -17,6 +17,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (today)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (4 days ago)
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (4 days ago)
 - [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw) (5 days ago)
@@ -26,10 +27,10 @@ passions:
 - [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (3 weeks ago)
 - [randoneering/nvim-kickstart](https://github.com/randoneering/nvim-kickstart) - Neovim Kickstart Flake (3 weeks ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
-- [randoneering/popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme) - This is my attempt at porting the &#39;popping and locking&#39; theme used in iTerm2, ghostty, atom, vscode, and other tools. (1 month ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
 
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering
 - [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw)
 - [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers
@@ -39,7 +40,6 @@ passions:
 - [randoneering/randoneering-infra-as-code](https://github.com/randoneering/randoneering-infra-as-code) - 
 - [randoneering/snowflake-administration-queries](https://github.com/randoneering/snowflake-administration-queries) - A collection of SQL queries for Snowflake Administration, monitoring, and optimization
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data
-- [randoneering/popping-and-locking-cosmicDE-theme](https://github.com/randoneering/popping-and-locking-cosmicDE-theme) - My rendition of the popping and locking theme, but for COSMIC DE
 
 #### ⭐ My most recent obsessions
 
