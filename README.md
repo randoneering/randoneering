@@ -43,16 +43,16 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [ryanbooz/bluebox](https://github.com/ryanbooz/bluebox) - An updated sample database for PostgreSQL, building off of the Pagila database (2 days ago)
-- [pgEdge/pgedge-loadgen](https://github.com/pgEdge/pgedge-loadgen) - A load generator for PostgreSQL (6 days ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
-- [Niehztog/freshrss-af-readability](https://github.com/Niehztog/freshrss-af-readability) - Article full text FreshRSS extension (2 weeks ago)
-- [AnarchoBooleanism/nixos-cloud-init-installer](https://github.com/AnarchoBooleanism/nixos-cloud-init-installer) - A minimal NixOS flake with cloud-init designed for use as an installer ISO image for provisioning virtual machines (2 weeks ago)
-- [ironicbadger/ansible-role-docker-compose-generator](https://github.com/ironicbadger/ansible-role-docker-compose-generator) - An Ansible role which procedurally generates docker-compose.yml files (2 weeks ago)
-- [BladeWDR/infra](https://github.com/BladeWDR/infra) - Homelab Infrastructure Repo (2 weeks ago)
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (3 weeks ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (3 weeks ago)
-- [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (3 weeks ago)
+- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python (today)
+- [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (today)
+- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (today)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (today)
+- [ossf/DevRel-community](https://github.com/ossf/DevRel-community) - Evangelizing the mission and work of the OpenSSF and building strong community outreach around end-users, open-source maintainers, and contributors. (today)
+- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (today)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (today)
+- [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format. (today)
+- [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions. (today)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 
 #### 😱 My recent pull requests
 
