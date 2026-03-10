@@ -17,15 +17,15 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 day ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (6 days ago)
-- [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (6 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (2 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 week ago)
+- [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (1 week ago)
 - [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw) (1 week ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
-- [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (1 week ago)
+- [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (2 weeks ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (3 weeks ago)
 - [randoneering/popping-and-locking.nvim](https://github.com/randoneering/popping-and-locking.nvim) - An attempt to match the popping-and-locking Zed theme (3 weeks ago)
-- [randoneering/nvim-kickstart](https://github.com/randoneering/nvim-kickstart) - Neovim Kickstart Flake (4 weeks ago)
+- [randoneering/nvim-kickstart](https://github.com/randoneering/nvim-kickstart) - Neovim Kickstart Flake (1 month ago)
 - [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (1 month ago)
 
 #### 💻 My latest projects (have you seen my flake(s)?)
@@ -43,20 +43,20 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python (1 day ago)
-- [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (1 day ago)
-- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (1 day ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (1 day ago)
-- [ossf/DevRel-community](https://github.com/ossf/DevRel-community) - Evangelizing the mission and work of the OpenSSF and building strong community outreach around end-users, open-source maintainers, and contributors. (1 day ago)
-- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (1 day ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (1 day ago)
-- [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format. (1 day ago)
-- [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions. (1 day ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 day ago)
+- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python (2 days ago)
+- [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (2 days ago)
+- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (2 days ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (2 days ago)
+- [ossf/DevRel-community](https://github.com/ossf/DevRel-community) - Evangelizing the mission and work of the OpenSSF and building strong community outreach around end-users, open-source maintainers, and contributors. (2 days ago)
+- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (2 days ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (2 days ago)
+- [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format. (2 days ago)
+- [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions. (2 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 days ago)
 
 #### 😱 My recent pull requests
 
-- [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (6 days ago)
+- [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (1 week ago)
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 week ago)
 - [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
