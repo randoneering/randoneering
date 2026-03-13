@@ -17,7 +17,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (4 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (5 days ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 week ago)
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (1 week ago)
 - [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw) (1 week ago)
@@ -43,16 +43,16 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python (4 days ago)
-- [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (4 days ago)
-- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (4 days ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (4 days ago)
-- [ossf/DevRel-community](https://github.com/ossf/DevRel-community) - Evangelizing the mission and work of the OpenSSF and building strong community outreach around end-users, open-source maintainers, and contributors. (4 days ago)
-- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (4 days ago)
-- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (4 days ago)
-- [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format. (4 days ago)
-- [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions. (4 days ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (4 days ago)
+- [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python (5 days ago)
+- [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (5 days ago)
+- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (5 days ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (5 days ago)
+- [ossf/DevRel-community](https://github.com/ossf/DevRel-community) - Evangelizing the mission and work of the OpenSSF and building strong community outreach around end-users, open-source maintainers, and contributors. (5 days ago)
+- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project (5 days ago)
+- [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard. (5 days ago)
+- [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format. (5 days ago)
+- [ossf/cve-bin-tool](https://github.com/ossf/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions. (5 days ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (5 days ago)
 
 #### 😱 My recent pull requests
 
@@ -60,11 +60,11 @@ passions:
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 week ago)
 - [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
-- [cortex: init at 0.26.0](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [cortex: init at 0.26.0](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
 - [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (3 weeks ago)
 - [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 weeks ago)
-- [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
-- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
+- [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
+- [Feature/testing suite](https://github.com/randoneering/pgFirstAid/pull/24) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [Feature/sponsors update](https://github.com/randoneering/pgFirstAid/pull/23) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 
 #### 📰 Words I put together to look smart
