@@ -18,10 +18,10 @@ passions:
 #### ☕ Check out what I'm currently working on (probably flakes)
 
 - [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 day ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (1 day ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 days ago)
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (1 week ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 week ago)
 - [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw) (1 week ago)
 - [randoneering/nix-bsdg](https://github.com/randoneering/nix-bsdg) - Test flake for BSDG Nix Servers (2 weeks ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (3 weeks ago)
