@@ -79,9 +79,9 @@ passions:
 
 - [asaloojee](https://github.com/asaloojee)
 - [jimbrig](https://github.com/jimbrig)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [jusot99](https://github.com/jusot99)
 - [monad-one](https://github.com/monad-one)
+- [SreenivasKalahasti](https://github.com/SreenivasKalahasti)
 
 #### ✌️ Contact!
 
