@@ -17,9 +17,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (1 day ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 days ago)
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (6 days ago)
+- [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (2 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (3 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 week ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (2 weeks ago)
 - [randoneering/pgFirstAid-nix-servers](https://github.com/randoneering/pgFirstAid-nix-servers) - Repo for Test Servers for pgFirstAid (running NixOS btw) (2 weeks ago)
@@ -43,7 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (today)
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 day ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. (1 week ago)
@@ -59,7 +59,7 @@ passions:
 - [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
 - [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (2 weeks ago)
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
-- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (2 weeks ago)
+- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 weeks ago)
 - [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [cortex: init at 0.26.03](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 weeks ago)
 - [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (1 month ago)
