@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (today)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (2 days ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
@@ -52,7 +53,6 @@ passions:
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (2 weeks ago)
 - [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (2 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (2 weeks ago)
-- [ossf/DevRel-community](https://github.com/ossf/DevRel-community) - Evangelizing the mission and work of the OpenSSF and building strong community outreach around end-users, open-source maintainers, and contributors. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
