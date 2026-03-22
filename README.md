@@ -69,11 +69,11 @@ passions:
 
 #### 📰 Words I put together to look smart
 
+- [The World We Live In](/blog/random/theworldwelivein/) (2 days ago)
 - [pgFirstAid - Milestone 2 and 3!](/blog/pgfirstaid/pgfirstaid_m3/) (2 months ago)
 - [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (4 months ago)
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (6 months ago)
 - [SCALE 22x](/blog/foss/scale22x/) (1 year ago)
-- [Weekly Post (2025-01-25)](/blog/weekly/jan212025/) (1 year ago)
 
 #### 💜 Recent followers
 
