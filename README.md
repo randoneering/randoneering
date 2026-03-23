@@ -17,7 +17,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (2 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 day ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 days ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (4 days ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (5 days ago)
@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (today)
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (1 day ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (3 days ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 week ago)
@@ -52,7 +53,6 @@ passions:
 - [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python (2 weeks ago)
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (2 weeks ago)
 - [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (2 weeks ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (2 weeks ago)
 
 #### 😱 My recent pull requests
 
