@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (today)
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (today)
 - [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (1 day ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (3 days ago)
@@ -52,7 +53,6 @@ passions:
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
 - [sigstore/sigstore-python](https://github.com/sigstore/sigstore-python) - A Sigstore client written in Python (2 weeks ago)
 - [sigstore/rekor](https://github.com/sigstore/rekor) - Software Supply Chain Transparency Log (2 weeks ago)
-- [sigstore/fulcio](https://github.com/sigstore/fulcio) - Sigstore OIDC PKI (2 weeks ago)
 
 #### 😱 My recent pull requests
 
