@@ -17,8 +17,8 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (2 days ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (5 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (3 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (6 days ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (1 week ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 week ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 weeks ago)
@@ -43,20 +43,20 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases (1 day ago)
-- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri (1 day ago)
-- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (3 days ago)
-- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (3 days ago)
-- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (4 days ago)
-- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (6 days ago)
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 week ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (1 week ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
+- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases (2 days ago)
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri (2 days ago)
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (4 days ago)
+- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (4 days ago)
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (5 days ago)
+- [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 week ago)
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (2 weeks ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (2 weeks ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
-- [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 week ago)
+- [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (3 weeks ago)
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 weeks ago)
@@ -69,10 +69,10 @@ passions:
 
 #### 📰 Words I put together to look smart
 
-- [The World We Live In](/blog/random/theworldwelivein/) (6 days ago)
+- [The World We Live In](/blog/random/theworldwelivein/) (1 week ago)
 - [pgFirstAid - Milestone 2 and 3!](/blog/pgfirstaid/pgfirstaid_m3/) (2 months ago)
 - [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (4 months ago)
-- [Not Another AI Hype Train](/blog/random/aihypetrain/) (6 months ago)
+- [Not Another AI Hype Train](/blog/random/aihypetrain/) (7 months ago)
 - [SCALE 22x](/blog/foss/scale22x/) (1 year ago)
 
 #### 💜 Recent followers
