@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
 - [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases (3 days ago)
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri (3 days ago)
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (5 days ago)
@@ -52,10 +53,11 @@ passions:
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (2 weeks ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. (2 weeks ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 weeks ago)
 
 #### 😱 My recent pull requests
 
+- [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (today)
+- [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (today)
 - [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (today)
 - [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (3 weeks ago)
@@ -64,8 +66,6 @@ passions:
 - [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [cortex-code: init at 0.26.0324](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (1 month ago)
-- [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 month ago)
-- [pgTAP bug fix and created GH Action to test with PRs](https://github.com/randoneering/pgFirstAid/pull/25) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
@@ -77,11 +77,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [jamesbrink](https://github.com/jamesbrink)
 - [youssef-bahida](https://github.com/youssef-bahida)
 - [asaloojee](https://github.com/asaloojee)
 - [jimbrig](https://github.com/jimbrig)
 - [jusot99](https://github.com/jusot99)
-- [monad-one](https://github.com/monad-one)
 
 #### ✌️ Contact!
 
