@@ -17,8 +17,8 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 day ago)
-- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (6 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (2 days ago)
+- [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 week ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (1 week ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 week ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (2 weeks ago)
@@ -43,11 +43,11 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases (2 days ago)
-- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri (2 days ago)
-- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (4 days ago)
-- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (4 days ago)
-- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (5 days ago)
+- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases (3 days ago)
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri (3 days ago)
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (5 days ago)
+- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (5 days ago)
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (6 days ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 week ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (2 weeks ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
@@ -59,8 +59,8 @@ passions:
 - [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (3 weeks ago)
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
-- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 weeks ago)
-- [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
+- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (4 weeks ago)
+- [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [cortex-code: init at 0.26.0324](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [fix: upgrade nginx 1.25 to 1.29.5 to reduce vulnerabilities ](https://github.com/usekaneo/kaneo/pull/930) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (1 month ago)
 - [[Snyk] Security upgrade nginx from 1.25-alpine to 1.29.5-alpine](https://github.com/randoneering/kaneo/pull/1) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 month ago)
