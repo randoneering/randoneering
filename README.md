@@ -17,7 +17,7 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (2 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (3 days ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (1 week ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (1 week ago)
 - [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 week ago)
@@ -43,12 +43,12 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
-- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases (3 days ago)
-- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri (3 days ago)
-- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (5 days ago)
-- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (5 days ago)
-- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (6 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
+- [neondatabase/mcp-server-neon](https://github.com/neondatabase/mcp-server-neon) - MCP server for interacting with Neon Management API and databases (4 days ago)
+- [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri (4 days ago)
+- [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO] (6 days ago)
+- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (6 days ago)
+- [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua) -  (1 week ago)
 - [collabnix/kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools (1 week ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (2 weeks ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
@@ -56,9 +56,9 @@ passions:
 
 #### 😱 My recent pull requests
 
-- [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (today)
-- [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (today)
-- [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (today)
+- [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 day ago)
+- [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 day ago)
+- [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (1 day ago)
 - [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (2 weeks ago)
 - [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (3 weeks ago)
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
