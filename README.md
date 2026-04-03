@@ -44,7 +44,7 @@ passions:
 #### ⭐ My most recent obsessions
 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. (1 day ago)
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Claude Code opened to any LLM — OpenAI, Gemini, DeepSeek, Ollama, and 200&#43; models via OpenAI-compatible API shim (1 day ago)
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200&#43; models via OpenAI-compatible APIs. (1 day ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (3 days ago)
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed. (3 days ago)
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (3 days ago)
