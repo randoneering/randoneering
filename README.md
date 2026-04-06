@@ -56,6 +56,8 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (today)
+- [Feature/vul scan actions](https://github.com/usekaneo/kaneo/pull/1162) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (today)
 - [[Snyk] Security upgrade python from 3.14.3-slim-bookworm to 3.15-rc-slim-trixie](https://github.com/randoneering/postgres-mcp/pull/2) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (today)
 - [[Snyk] Security upgrade node from 20.12-alpine to 20.20.2-alpine](https://github.com/randoneering/kaneo/pull/3) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (today)
 - [[Snyk] Security upgrade python from 3.12-slim-bookworm to 3.14.3-slim-bookworm](https://github.com/randoneering/postgres-mcp/pull/1) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (1 day ago)
@@ -64,8 +66,6 @@ passions:
 - [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (1 week ago)
 - [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
 - [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (1 month ago)
-- [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
-- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
