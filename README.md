@@ -56,6 +56,8 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [[Snyk] Security upgrade python from 3.14.3-slim-bookworm to 3.15-rc-slim-trixie](https://github.com/randoneering/postgres-mcp/pull/2) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (today)
+- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.2-alpine](https://github.com/randoneering/kaneo/pull/3) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (today)
 - [[Snyk] Security upgrade python from 3.12-slim-bookworm to 3.14.3-slim-bookworm](https://github.com/randoneering/postgres-mcp/pull/1) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (1 day ago)
 - [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 week ago)
 - [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 week ago)
@@ -64,8 +66,6 @@ passions:
 - [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (1 month ago)
 - [feature: add opentofu workflows for big three cloud providers](https://github.com/randoneering/pgFirstAid/pull/27) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
 - [[Snyk] Security upgrade node from 20.12-alpine to 20.20.0-alpine](https://github.com/randoneering/kaneo/pull/2) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 month ago)
-- [feature: query performance health checks](https://github.com/randoneering/pgFirstAid/pull/26) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (1 month ago)
-- [cortex-code: init at 0.26.0324](https://github.com/NixOS/nixpkgs/pull/492345) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
