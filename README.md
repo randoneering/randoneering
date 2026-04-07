@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [fix: apps/api/Dockerfile to reduce vulnerabilities](https://github.com/usekaneo/kaneo/pull/1167) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (today)
 - [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 day ago)
 - [Feature/vul scan actions](https://github.com/usekaneo/kaneo/pull/1162) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (1 day ago)
 - [[Snyk] Security upgrade python from 3.14.3-slim-bookworm to 3.15-rc-slim-trixie](https://github.com/randoneering/postgres-mcp/pull/2) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (1 day ago)
@@ -65,7 +66,6 @@ passions:
 - [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 week ago)
 - [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (1 week ago)
 - [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
-- [Feature/openstack osuosl](https://github.com/randoneering/nixos-cloud-init-installer/pull/1) on [randoneering/nixos-cloud-init-installer](https://github.com/randoneering/nixos-cloud-init-installer) (1 month ago)
 
 #### 📰 Words I put together to look smart
 
