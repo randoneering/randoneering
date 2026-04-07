@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [mikecann/cya-playground](https://github.com/mikecann/cya-playground) -  (today)
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs (3 days ago)
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation (3 days ago)
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly] (3 days ago)
@@ -52,7 +53,6 @@ passions:
 - [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200&#43; models via OpenAI-compatible APIs. (5 days ago)
 - [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 - [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed. (1 week ago)
-- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (1 week ago)
 
 #### 😱 My recent pull requests
 
