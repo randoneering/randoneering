@@ -17,8 +17,8 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 day ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (5 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (2 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (6 days ago)
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (2 weeks ago)
@@ -43,24 +43,24 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs (2 days ago)
-- [NixOS/org](https://github.com/NixOS/org) - Organisational documentation (2 days ago)
-- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly] (2 days ago)
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (2 days ago)
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 days ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (4 days ago)
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200&#43; models via OpenAI-compatible APIs. (4 days ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (6 days ago)
-- [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed. (6 days ago)
-- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (6 days ago)
+- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs (3 days ago)
+- [NixOS/org](https://github.com/NixOS/org) - Organisational documentation (3 days ago)
+- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly] (3 days ago)
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (3 days ago)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (3 days ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (5 days ago)
+- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200&#43; models via OpenAI-compatible APIs. (5 days ago)
+- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
+- [timescale/pgvectorscale](https://github.com/timescale/pgvectorscale) - Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed. (1 week ago)
+- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (1 week ago)
 
 #### 😱 My recent pull requests
 
-- [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (today)
-- [Feature/vul scan actions](https://github.com/usekaneo/kaneo/pull/1162) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (today)
-- [[Snyk] Security upgrade python from 3.14.3-slim-bookworm to 3.15-rc-slim-trixie](https://github.com/randoneering/postgres-mcp/pull/2) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (today)
-- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.2-alpine](https://github.com/randoneering/kaneo/pull/3) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (today)
-- [[Snyk] Security upgrade python from 3.12-slim-bookworm to 3.14.3-slim-bookworm](https://github.com/randoneering/postgres-mcp/pull/1) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (1 day ago)
+- [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 day ago)
+- [Feature/vul scan actions](https://github.com/usekaneo/kaneo/pull/1162) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (1 day ago)
+- [[Snyk] Security upgrade python from 3.14.3-slim-bookworm to 3.15-rc-slim-trixie](https://github.com/randoneering/postgres-mcp/pull/2) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (1 day ago)
+- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.2-alpine](https://github.com/randoneering/kaneo/pull/3) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (1 day ago)
+- [[Snyk] Security upgrade python from 3.12-slim-bookworm to 3.14.3-slim-bookworm](https://github.com/randoneering/postgres-mcp/pull/1) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (2 days ago)
 - [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 week ago)
 - [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 week ago)
 - [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (1 week ago)
