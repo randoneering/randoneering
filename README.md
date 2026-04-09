@@ -43,16 +43,16 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) -  (today)
+- [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) - Agent Skills for Neon Severless Postgres (today)
+- [neondatabase/postgres-skills](https://github.com/neondatabase/postgres-skills) -  (today)
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (today)
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 1000&#43; agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others. (today)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. (1 day ago)
 - [mikecann/cya-playground](https://github.com/mikecann/cya-playground) -  (2 days ago)
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs (5 days ago)
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation (5 days ago)
 - [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly] (5 days ago)
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (5 days ago)
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (5 days ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 week ago)
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200&#43; models via OpenAI-compatible APIs. (1 week ago)
-- [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy to deploy, open source, postgresql function that provides a prioritized list of actions to take to improve stability and performance.  (1 week ago)
 
 #### 😱 My recent pull requests
 
