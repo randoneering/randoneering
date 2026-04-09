@@ -18,8 +18,8 @@ passions:
 #### ☕ Check out what I'm currently working on (probably flakes)
 
 - [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 day ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (2 days ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 week ago)
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (3 weeks ago)
@@ -43,6 +43,9 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development. (today)
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare. (today)
+- [ClickHouse/agent-skills](https://github.com/ClickHouse/agent-skills) - The official Agent Skills for ClickHouse and ClickHouse Cloud (today)
 - [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) -  (today)
 - [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) - Agent Skills for Neon Severless Postgres (today)
 - [neondatabase/postgres-skills](https://github.com/neondatabase/postgres-skills) -  (today)
@@ -50,9 +53,6 @@ passions:
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 1000&#43; agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others. (today)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. (1 day ago)
 - [mikecann/cya-playground](https://github.com/mikecann/cya-playground) -  (2 days ago)
-- [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs (5 days ago)
-- [NixOS/org](https://github.com/NixOS/org) - Organisational documentation (5 days ago)
-- [NixOS/infra](https://github.com/NixOS/infra) - NixOS configurations for nixos.org and its servers [maintainers=@mweinelt, @Mic92, @arianvp, @vcunat, @jfly] (5 days ago)
 
 #### 😱 My recent pull requests
 
