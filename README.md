@@ -17,9 +17,9 @@ passions:
 
 #### ☕ Check out what I'm currently working on (probably flakes)
 
-- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (1 day ago)
-- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (1 day ago)
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (2 days ago)
+- [randoneering/nix-flake-mirror](https://github.com/randoneering/nix-flake-mirror) - This is a simple mirror from my personal forgejo server so you all can ste-copy my work (2 days ago)
+- [randoneering/randoneering-agent-guide](https://github.com/randoneering/randoneering-agent-guide) - My personal collection of skills, ruleset, commands, and settings focused on all things Data (2 days ago)
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don&#39;t. Open source project management that works for you, not against you. (3 days ago)
 - [randoneering/flox-randoneering](https://github.com/randoneering/flox-randoneering) - Flox env for python and random engineering (1 week ago)
 - [randoneering/hugosite](https://github.com/randoneering/hugosite) -  (2 weeks ago)
 - [randoneering/flox-data-engineering](https://github.com/randoneering/flox-data-engineering) - Data Engineering focused Nix Environment (3 weeks ago)
@@ -43,33 +43,33 @@ passions:
 
 #### ⭐ My most recent obsessions
 
-- [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development. (today)
-- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare. (today)
-- [ClickHouse/agent-skills](https://github.com/ClickHouse/agent-skills) - The official Agent Skills for ClickHouse and ClickHouse Cloud (today)
-- [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) -  (today)
-- [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) - Agent Skills for Neon Severless Postgres (today)
-- [neondatabase/postgres-skills](https://github.com/neondatabase/postgres-skills) -  (today)
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (today)
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 1000&#43; agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others. (today)
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. (1 day ago)
-- [mikecann/cya-playground](https://github.com/mikecann/cya-playground) -  (2 days ago)
+- [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development. (1 day ago)
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare. (1 day ago)
+- [ClickHouse/agent-skills](https://github.com/ClickHouse/agent-skills) - The official Agent Skills for ClickHouse and ClickHouse Cloud (1 day ago)
+- [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) -  (1 day ago)
+- [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) - Agent Skills for Neon Severless Postgres (1 day ago)
+- [neondatabase/postgres-skills](https://github.com/neondatabase/postgres-skills) -  (1 day ago)
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (1 day ago)
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 1000&#43; agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others. (1 day ago)
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. (2 days ago)
+- [mikecann/cya-playground](https://github.com/mikecann/cya-playground) -  (3 days ago)
 
 #### 😱 My recent pull requests
 
-- [fix: apps/api/Dockerfile to reduce vulnerabilities](https://github.com/usekaneo/kaneo/pull/1167) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (2 days ago)
-- [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 days ago)
-- [Feature/vul scan actions](https://github.com/usekaneo/kaneo/pull/1162) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (3 days ago)
-- [[Snyk] Security upgrade python from 3.14.3-slim-bookworm to 3.15-rc-slim-trixie](https://github.com/randoneering/postgres-mcp/pull/2) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (3 days ago)
-- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.2-alpine](https://github.com/randoneering/kaneo/pull/3) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (3 days ago)
-- [[Snyk] Security upgrade python from 3.12-slim-bookworm to 3.14.3-slim-bookworm](https://github.com/randoneering/postgres-mcp/pull/1) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (4 days ago)
+- [fix: apps/api/Dockerfile to reduce vulnerabilities](https://github.com/usekaneo/kaneo/pull/1167) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (3 days ago)
+- [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (4 days ago)
+- [Feature/vul scan actions](https://github.com/usekaneo/kaneo/pull/1162) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (4 days ago)
+- [[Snyk] Security upgrade python from 3.14.3-slim-bookworm to 3.15-rc-slim-trixie](https://github.com/randoneering/postgres-mcp/pull/2) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (4 days ago)
+- [[Snyk] Security upgrade node from 20.12-alpine to 20.20.2-alpine](https://github.com/randoneering/kaneo/pull/3) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (4 days ago)
+- [[Snyk] Security upgrade python from 3.12-slim-bookworm to 3.14.3-slim-bookworm](https://github.com/randoneering/postgres-mcp/pull/1) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (5 days ago)
 - [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 week ago)
 - [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (1 week ago)
 - [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (1 week ago)
-- [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (3 weeks ago)
+- [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
 
 #### 📰 Words I put together to look smart
 
-- [The World We Live In](/blog/random/theworldwelivein/) (2 weeks ago)
+- [The World We Live In](/blog/random/theworldwelivein/) (3 weeks ago)
 - [pgFirstAid - Milestone 2 and 3!](/blog/pgfirstaid/pgfirstaid_m3/) (3 months ago)
 - [pgFirstAid - PostgreSQL Health Check](/blog/pgfirstaid/pgfirstaid/) (4 months ago)
 - [Not Another AI Hype Train](/blog/random/aihypetrain/) (7 months ago)
