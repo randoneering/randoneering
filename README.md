@@ -50,7 +50,7 @@ passions:
 - [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) - Agent Skills for Neon Severless Postgres (1 day ago)
 - [neondatabase/postgres-skills](https://github.com/neondatabase/postgres-skills) -  (1 day ago)
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (1 day ago)
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 1000&#43; agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others. (1 day ago)
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000&#43; agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. (1 day ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. (2 days ago)
 - [mikecann/cya-playground](https://github.com/mikecann/cya-playground) -  (3 days ago)
 
