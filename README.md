@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Feat/services page updates](https://github.com/randoneering/hugosite/pull/7) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (today)
 - [fix: apps/api/Dockerfile to reduce vulnerabilities](https://github.com/usekaneo/kaneo/pull/1167) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (4 days ago)
 - [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (5 days ago)
 - [Feature/vul scan actions](https://github.com/usekaneo/kaneo/pull/1162) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (5 days ago)
@@ -65,7 +66,6 @@ passions:
 - [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (2 weeks ago)
 - [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (2 weeks ago)
 - [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (2 weeks ago)
-- [update function, view, high tests, and readme](https://github.com/randoneering/pgFirstAid/pull/28) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (4 weeks ago)
 
 #### 📰 Words I put together to look smart
 
