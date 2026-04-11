@@ -43,6 +43,7 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (today)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (1 day ago)
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development. (2 days ago)
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare. (2 days ago)
@@ -52,7 +53,6 @@ passions:
 - [neondatabase/postgres-skills](https://github.com/neondatabase/postgres-skills) -  (2 days ago)
 - [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (2 days ago)
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - A curated collection of 1000&#43; agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more. (2 days ago)
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. (3 days ago)
 
 #### 😱 My recent pull requests
 
