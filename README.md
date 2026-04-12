@@ -77,11 +77,11 @@ passions:
 
 #### 💜 Recent followers
 
+- [helallao](https://github.com/helallao)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [jamesbrink](https://github.com/jamesbrink)
 - [youssef-bahida](https://github.com/youssef-bahida)
 - [asaloojee](https://github.com/asaloojee)
-- [jimbrig](https://github.com/jimbrig)
 
 #### ✌️ Contact!
 
