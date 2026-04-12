@@ -56,6 +56,7 @@ passions:
 
 #### 😱 My recent pull requests
 
+- [Feature/Adding Info and System Level Checks](https://github.com/randoneering/pgFirstAid/pull/29) on [randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid) (today)
 - [Feat/services page updates](https://github.com/randoneering/hugosite/pull/7) on [randoneering/hugosite](https://github.com/randoneering/hugosite) (1 day ago)
 - [fix: apps/api/Dockerfile to reduce vulnerabilities](https://github.com/usekaneo/kaneo/pull/1167) on [usekaneo/kaneo](https://github.com/usekaneo/kaneo) (5 days ago)
 - [chore: add docker vulnerability scan workflow](https://github.com/randoneering/kaneo/pull/4) on [randoneering/kaneo](https://github.com/randoneering/kaneo) (6 days ago)
@@ -65,7 +66,6 @@ passions:
 - [[Snyk] Security upgrade python from 3.12-slim-bookworm to 3.14.3-slim-bookworm](https://github.com/randoneering/postgres-mcp/pull/1) on [randoneering/postgres-mcp](https://github.com/randoneering/postgres-mcp) (1 week ago)
 - [fix: apply Snyk vulnerability remediations for website dependencies](https://github.com/utensils/mcp-nixos/pull/116) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (2 weeks ago)
 - [fix: restore MCP tool fn compatibility and document prior dependency merge](https://github.com/utensils/mcp-nixos/pull/115) on [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos) (2 weeks ago)
-- [[Snyk] Security upgrade next from 16.1.6 to 16.1.7](https://github.com/randoneering/mcp-nixos/pull/1) on [randoneering/mcp-nixos](https://github.com/randoneering/mcp-nixos) (2 weeks ago)
 
 #### 📰 Words I put together to look smart
 
