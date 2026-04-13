@@ -43,6 +43,9 @@ passions:
 
 #### ⭐ My most recent obsessions
 
+- [devusb/nix-config](https://github.com/devusb/nix-config) - Nix dotfiles used on both Linux and macOS hosts, including home-manager (today)
+- [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI) (today)
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (3 days ago)
@@ -50,9 +53,6 @@ passions:
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare. (4 days ago)
 - [ClickHouse/agent-skills](https://github.com/ClickHouse/agent-skills) - The official Agent Skills for ClickHouse and ClickHouse Cloud (4 days ago)
 - [duckdb/duckdb-skills](https://github.com/duckdb/duckdb-skills) -  (4 days ago)
-- [neondatabase/agent-skills](https://github.com/neondatabase/agent-skills) - Agent Skills for Neon Severless Postgres (4 days ago)
-- [neondatabase/postgres-skills](https://github.com/neondatabase/postgres-skills) -  (4 days ago)
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (4 days ago)
 
 #### 😱 My recent pull requests
 
