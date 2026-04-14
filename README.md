@@ -46,7 +46,6 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-d65d0e?style=flat-square&logo=opentofu&logoColor=ebdbb2&labelColor=282828)
 ![Ansible](https://img.shields.io/badge/Ansible-cc241d?style=flat-square&logo=ansible&logoColor=ebdbb2&labelColor=282828)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=randoneering&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)](https://github.com/randoneering)
 
 ---
 
