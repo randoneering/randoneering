@@ -25,15 +25,15 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 ---
 
 ### Stack
-
-![Linux](https://img.shields.io/badge/Linux-ebdbb2?style=flat-square&logo=linux&logoColor=282828&labelColor=282828)
+ 
+![Linux](https://img.shields.io/badge/Linux-ebdbb2?style=flat-square&logo=linux&logoColor=1d2021&labelColor=ebdbb2)
 ![NixOS](https://img.shields.io/badge/NixOS-b16286?style=flat-square&logo=nixos&logoColor=ebdbb2&labelColor=282828)
-![Python](https://img.shields.io/badge/Python-fabd2f?style=flat-square&logo=python&logoColor=282828&labelColor=282828)
+![Python](https://img.shields.io/badge/Python-fabd2f?style=flat-square&logo=python&logoColor=282828&labelColor=fabd2f)
 ![Docker](https://img.shields.io/badge/Docker-83a598?style=flat-square&logo=docker&logoColor=ebdbb2&labelColor=282828)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-458588?style=flat-square&logo=kubernetes&logoColor=ebdbb2&labelColor=282828)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-d65d0e?style=flat-square&logo=opentofu&logoColor=ebdbb2&labelColor=282828)
 ![Ansible](https://img.shields.io/badge/Ansible-cc241d?style=flat-square&logo=ansible&logoColor=ebdbb2&labelColor=282828)
-
+ 
 
 ---
 
