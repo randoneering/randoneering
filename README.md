@@ -5,6 +5,9 @@ I run a fractional infrastructure engineering consultancy for startups and small
 - Building infrastructure automation, random terminal tools, and occasionally staring at a terminal config for two hours to get the colors exactly right is my bread and butter
 - Also open source, because someone has to
 
+
+Looking for someone to build out your infrastructure --->[randoneering.tech](https://randoneering.tech)
+
 ---
 
 ### pgFirstAid
@@ -45,7 +48,3 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 - [The World We Live In](https://randoneering.tech/blog/random/theworldwelivein)
 - [pgFirstAid - Milestone 2 and 3!](https://randoneering.tech/blog/pgfirstaid/pgfirstaid_m3)
 - [Not Another AI Hype Train](https://randoneering.tech/blog/random/aihypetrain)
-
----
-
-[randoneering.tech](https://randoneering.tech)
