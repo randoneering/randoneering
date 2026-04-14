@@ -1,16 +1,4 @@
-```yaml
-name: "Justin (Randoneering™)"
-role: "Founding Randoneer @ Randoneering, LLC"
-location: "Gem State"
-passions:
-  - 🐧 Open source evangelism
-  - 🏠 Homelab
-  - 🔧 Constant tinkering
-  - 🏳️‍🌈 Ally
-  - 👹 I run NixOS btw
-nixpkgs_maintainer: true
-color_scheme: "Popping and Locking (don't ask)"
-```
+![neofetch](assets/neofetch.svg)
 
 I run a fractional infrastructure engineering consultancy for startups and small businesses. PostgreSQL optimization, building infrastructure automation, random terminal tools, and occasionally staring at a terminal config for two hours to get the colors exactly right. Also open source, because someone has to.
 
