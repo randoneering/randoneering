@@ -20,7 +20,7 @@ I run a fractional infrastructure engineering consultancy for startups and small
 
 [![GitHub Stars](https://img.shields.io/github/stars/randoneering/pgFirstAid?style=flat-square&color=b8bb26&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
 [![License](https://img.shields.io/github/license/randoneering/pgFirstAid?style=flat-square&color=83a598&labelColor=282828)](https://github.com/randoneering/pgFirstAid/blob/main/LICENSE)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-18-458588?style=flat-square&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15--18-458588?style=flat-square&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
 
 A PostgreSQL function that returns a prioritized list of what's actually wrong with your database. No agent to install, no SaaS to sign up for. Inspired by SQL Server's FirstResponderKit, built for the rest of us.
 
