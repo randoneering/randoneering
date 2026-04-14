@@ -1,0 +1,58 @@
+<svg width="100%" viewBox="0 0 680 348" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>neofetch — randoneering@nixos</title>
+<desc>Terminal neofetch output with exact NixOS ASCII art from neofetch source</desc>
+<rect width="680" height="348" rx="10" fill="#282828" stroke="#3c3836" stroke-width="0.5"/>
+<rect width="680" height="34" rx="10" fill="#1d2021"/>
+<rect y="24" width="680" height="10" fill="#1d2021"/>
+<circle cx="24" cy="17" r="6" fill="#cc241d"/>
+<circle cx="44" cy="17" r="6" fill="#d79921"/>
+<circle cx="64" cy="17" r="6" fill="#98971a"/>
+<text x="340" y="21" font-family="'Courier New',Courier,monospace" font-size="11" text-anchor="middle" fill="#665c54">ghostty — randoneering@nixos</text>
+
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="52" fill="#458588">          ::::.    </tspan><tspan fill="#83a598">':::::     ::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="65" fill="#458588">          ':::::    </tspan><tspan fill="#83a598">':::::.  ::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="78" fill="#458588">            :::::     </tspan><tspan fill="#83a598">'::::.::::: </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="91" fill="#458588">      .......:::::..... </tspan><tspan fill="#83a598">::::::::  </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="104" fill="#458588">     ::::::::::::::::::. </tspan><tspan fill="#83a598">::::::    </tspan><tspan fill="#458588">::::.</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="117" fill="#458588">    ::::::::::::::::::::: </tspan><tspan fill="#83a598">:::::.  </tspan><tspan fill="#458588">.::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="130" fill="#83a598">           .....           ::::' </tspan><tspan fill="#458588">:::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="143" fill="#83a598">          :::::            '::' </tspan><tspan fill="#458588">:::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="156" fill="#83a598"> ........:::::               ' </tspan><tspan fill="#458588">::::::::::: </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="169" fill="#83a598">:::::::::::::                 </tspan><tspan fill="#458588">:::::::::::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="182" fill="#83a598"> ::::::::::: </tspan><tspan fill="#458588">..              :::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="195" fill="#83a598">     .::::: </tspan><tspan fill="#458588">.:::            :::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="208" fill="#83a598">    .:::::  </tspan><tspan fill="#458588">:::::          '''''    </tspan><tspan fill="#83a598">.....</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="221" fill="#83a598">    :::::   </tspan><tspan fill="#458588">':::::.  </tspan><tspan fill="#83a598">......:::::::::::::'</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="234" fill="#83a598">     :::     </tspan><tspan fill="#458588">::::::. </tspan><tspan fill="#83a598">':::::::::::::::::'</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="247" fill="#458588">            .:::::::: </tspan><tspan fill="#83a598">'::::::::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="260" fill="#458588">           .::::''::::.     </tspan><tspan fill="#83a598">'::::. </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="273" fill="#458588">          .::::'   ::::.     </tspan><tspan fill="#83a598">'::::.  </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="286" fill="#458588">         .::::      ::::      </tspan><tspan fill="#83a598">'::::.  </tspan></text>
+
+<text y="52" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold"><tspan x="310" fill="#b8bb26">randoneering</tspan><tspan fill="#ebdbb2">@</tspan><tspan fill="#83a598">nixos</tspan></text>
+<text x="310" y="73" font-family="'Courier New',Courier,monospace" font-size="14" fill="#504945">──────────────────</text>
+<text y="94"  font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">OS</tspan><tspan x="386" fill="#ebdbb2">NixOS</tspan></text>
+<text y="123" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Role</tspan><tspan x="386" fill="#ebdbb2">Founding Randoneer</tspan></text>
+<text y="152" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Company</tspan><tspan x="386" fill="#ebdbb2">Randoneering, LLC</tspan></text>
+<text y="181" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">nixpkgs</tspan><tspan x="386" fill="#ebdbb2">maintainer</tspan></text>
+<text y="210" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Editor</tspan><tspan x="386" fill="#ebdbb2">neovim</tspan></text>
+<text y="239" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Terminal</tspan><tspan x="386" fill="#ebdbb2">ghostty</tspan></text>
+<text y="268" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Agents</tspan><tspan x="386" fill="#ebdbb2">pi-agent · opencode</tspan></text>
+
+<rect x="310" y="284" width="14" height="14" rx="2" fill="#cc241d"/>
+<rect x="328" y="284" width="14" height="14" rx="2" fill="#98971a"/>
+<rect x="346" y="284" width="14" height="14" rx="2" fill="#d79921"/>
+<rect x="364" y="284" width="14" height="14" rx="2" fill="#458588"/>
+<rect x="382" y="284" width="14" height="14" rx="2" fill="#b16286"/>
+<rect x="400" y="284" width="14" height="14" rx="2" fill="#689d6a"/>
+<rect x="418" y="284" width="14" height="14" rx="2" fill="#d65d0e"/>
+<rect x="436" y="284" width="14" height="14" rx="2" fill="#a89984"/>
+<rect x="310" y="302" width="14" height="14" rx="2" fill="#fb4934"/>
+<rect x="328" y="302" width="14" height="14" rx="2" fill="#b8bb26"/>
+<rect x="346" y="302" width="14" height="14" rx="2" fill="#fabd2f"/>
+<rect x="364" y="302" width="14" height="14" rx="2" fill="#83a598"/>
+<rect x="382" y="302" width="14" height="14" rx="2" fill="#d3869b"/>
+<rect x="400" y="302" width="14" height="14" rx="2" fill="#8ec07c"/>
+<rect x="418" y="302" width="14" height="14" rx="2" fill="#fe8019"/>
+<rect x="436" y="302" width="14" height="14" rx="2" fill="#ebdbb2"/>
+</svg>
