@@ -20,7 +20,7 @@ I run a fractional infrastructure engineering consultancy for startups and small
 
 [![GitHub Stars](https://img.shields.io/github/stars/randoneering/pgFirstAid?style=flat-square&color=b8bb26&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
 [![License](https://img.shields.io/github/license/randoneering/pgFirstAid?style=flat-square&color=83a598&labelColor=282828)](https://github.com/randoneering/pgFirstAid/blob/main/LICENSE)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13--18-458588?style=flat-square&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15--18-458588?style=flat-square&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
 
 A PostgreSQL function that returns a prioritized list of what's actually wrong with your database. No agent to install, no SaaS to sign up for. Inspired by SQL Server's FirstResponderKit, built for the rest of us.
 
@@ -46,7 +46,6 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-d65d0e?style=flat-square&logo=opentofu&logoColor=ebdbb2&labelColor=282828)
 ![Ansible](https://img.shields.io/badge/Ansible-cc241d?style=flat-square&logo=ansible&logoColor=ebdbb2&labelColor=282828)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=randoneering&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)](https://github.com/randoneering)
 
 ---
 
