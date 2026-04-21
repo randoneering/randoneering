@@ -1,4 +1,4 @@
-
+![neofetch](assets/neofetch.svg)
 
 I run a fractional infrastructure engineering consultancy for startups and small businesses. 
 - PostgreSQL is life
