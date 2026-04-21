@@ -37,7 +37,7 @@
 <text y="181" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">nixpkgs</tspan><tspan x="386" fill="#ebdbb2">maintainer</tspan></text>
 <text y="210" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Editor</tspan><tspan x="386" fill="#ebdbb2">neovim</tspan></text>
 <text y="239" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Terminal</tspan><tspan x="386" fill="#ebdbb2">ghostty</tspan></text>
-<text y="268" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Agents</tspan><tspan x="386" fill="#ebdbb2">pi-agent · opencode</tspan></text>
+<text y="268" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Agents</tspan><tspan x="386" fill="#ebdbb2">opencode</tspan></text>
 
 <rect x="310" y="284" width="14" height="14" rx="2" fill="#cc241d"/>
 <rect x="328" y="284" width="14" height="14" rx="2" fill="#98971a"/>
