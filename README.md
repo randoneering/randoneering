@@ -26,6 +26,7 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 
 - **nixpkgs maintainer** — contributing to the world's largest Linux package repository (whether it wants my help or not)
 - **SCALE 23x speaker** — "Five Stages of Grieving: Databases in Infrastructure as Code" and "pgFirstAid"
+- **Coder Radio 647** - guest on Coder Radio: talkes about pgFirstAid → [coder](https://coder.show/647)
 - **Randoneering, LLC** — fractional infrastructure engineering consultancy out of the Gem State → [randoneering.tech](https://randoneering.tech)
 
 ---
