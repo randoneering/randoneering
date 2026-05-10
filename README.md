@@ -45,7 +45,7 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 ---
 
 ### Writing
-
+- [pgFirstAid - hits 500 stars](https://randoneering.tech/blog/pgfirstaid/500stars)
 - [The World We Live In](https://randoneering.tech/blog/random/theworldwelivein)
 - [pgFirstAid - Milestone 2 and 3!](https://randoneering.tech/blog/pgfirstaid/pgfirstaid_m3)
 - [Not Another AI Hype Train](https://randoneering.tech/blog/random/aihypetrain)
