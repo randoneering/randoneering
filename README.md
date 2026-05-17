@@ -22,11 +22,25 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 
 ---
 
+### quackit-mcp
+
+[![GitHub Stars](https://img.shields.io/github/stars/randoneering/quackit-mcp?style=flat-square&color=b8bb26&labelColor=282828)](https://github.com/randoneering/quackit-mcp)
+[![License](https://img.shields.io/github/license/randoneering/quackit-mcp?style=flat-square&color=83a598&labelColor=282828)](https://github.com/randoneering/quackit-mcp/blob/main/LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-458588?style=flat-square&labelColor=282828)](https://github.com/randoneering/quackit-mcp)
+
+A local-first session memory MCP server for coding agents, with DuckDB by default and optional Postgres storage. Built to keep context, code snippets, and reusable skills close at hand without needing a SaaS in the middle.
+
+[→ randoneering/quackit-mcp](https://github.com/randoneering/quackit-mcp)
+
+---
+
 ### Notables
 
 - **nixpkgs maintainer** — contributing to the world's largest Linux package repository (whether it wants my help or not)
-- **SCALE 23x speaker** — "Five Stages of Grieving: Databases in Infrastructure as Code" and "pgFirstAid"
-- **Coder Radio 647** - guest on Coder Radio: talkes about pgFirstAid → [coder](https://coder.show/647)
+- **SCALE 23x speaker** — spoke on "Five Stages of Grieving: Databases in Infrastructure as Code" and "pgFirstAid"
+- **Coder Radio 647** — guest on Coder Radio talking about pgFirstAid → [coder](https://coder.show/647)
+- **Hacker News** — pgFirstAid hit the front page → [hn](https://news.ycombinator.com/item?id=45944951)
+- **TLDR newsletter** — pgFirstAid was mentioned in the TLDR newsletter → [tldr](https://tldr.tech/data/2025-11-20)
 - **Randoneering, LLC** — fractional infrastructure engineering consultancy out of the Gem State → [randoneering.tech](https://randoneering.tech)
 
 ---
