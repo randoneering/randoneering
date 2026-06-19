@@ -23,18 +23,6 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 
 ---
 
-### quackit-mcp
-
-[![GitHub Stars](https://img.shields.io/github/stars/randoneering/quackit-mcp?style=flat-square&color=b8bb26&labelColor=282828)](https://github.com/randoneering/quackit-mcp)
-[![License](https://img.shields.io/github/license/randoneering/quackit-mcp?style=flat-square&color=83a598&labelColor=282828)](https://github.com/randoneering/quackit-mcp/blob/main/LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-458588?style=flat-square&labelColor=282828)](https://github.com/randoneering/quackit-mcp)
-
-A local-first session memory MCP server for coding agents, with DuckDB by default and optional Postgres storage. Built to keep context, code snippets, and reusable skills close at hand without needing a SaaS in the middle.
-
-[→ randoneering/quackit-mcp](https://github.com/randoneering/quackit-mcp)
-
----
-
 ### Notables
 
 - **nixpkgs maintainer** — contributing to the world's largest Linux package repository (whether it wants my help or not)
