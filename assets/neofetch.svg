@@ -2,63 +2,63 @@
 <title>neofetch — randoneering@nixos</title>
 <desc>Terminal neofetch output with exact NixOS ASCII art from neofetch source</desc>
 <!-- window background -->
-<rect width="680" height="348" rx="6" fill="#282828" stroke="#3c3836" stroke-width="1"/>
+<rect width="680" height="348" rx="6" fill="#1a1b26" stroke="#3b4261" stroke-width="1"/>
 <!-- tab bar background -->
-<rect width="680" height="30" rx="6" fill="#1d2021"/>
-<rect y="24" width="680" height="6" fill="#1d2021"/>
+<rect width="680" height="30" rx="6" fill="#16161e"/>
+<rect y="24" width="680" height="6" fill="#16161e"/>
 <!-- active tab: powerline angled shape -->
-<rect x="0" y="0" width="210" height="30" rx="6" fill="#1d2021"/>
-<polygon points="8,30 8,4 14,0 200,0 210,8 210,30" fill="#282828"/>
-<polygon points="200,0 210,8 210,0" fill="#504945"/>
+<rect x="0" y="0" width="210" height="30" rx="6" fill="#16161e"/>
+<polygon points="8,30 8,4 14,0 200,0 210,8 210,30" fill="#1a1b26"/>
+<polygon points="200,0 210,8 210,0" fill="#565f89"/>
 <!-- tab label -->
-<text x="16" y="20" font-family="'Courier New',Courier,monospace" font-size="12" fill="#ebdbb2">randoneering@nixos</text>
+<text x="16" y="20" font-family="'Courier New',Courier,monospace" font-size="12" fill="#c0caf5">randoneering@nixos</text>
 <!-- inactive tab area -->
-<text x="220" y="20" font-family="'Courier New',Courier,monospace" font-size="12" fill="#504945">~/</text>
+<text x="220" y="20" font-family="'Courier New',Courier,monospace" font-size="12" fill="#565f89">~/</text>
 
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="52" fill="#458588">          ::::.    </tspan><tspan fill="#83a598">':::::     ::::' </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="65" fill="#458588">          ':::::    </tspan><tspan fill="#83a598">':::::.  ::::' </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="78" fill="#458588">            :::::     </tspan><tspan fill="#83a598">'::::.::::: </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="91" fill="#458588">      .......:::::..... </tspan><tspan fill="#83a598">::::::::  </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="104" fill="#458588">     ::::::::::::::::::. </tspan><tspan fill="#83a598">::::::    </tspan><tspan fill="#458588">::::.</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="117" fill="#458588">    ::::::::::::::::::::: </tspan><tspan fill="#83a598">:::::.  </tspan><tspan fill="#458588">.::::' </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="130" fill="#83a598">           .....           ::::' </tspan><tspan fill="#458588">:::::' </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="143" fill="#83a598">          :::::            '::' </tspan><tspan fill="#458588">:::::' </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="156" fill="#83a598"> ........:::::               ' </tspan><tspan fill="#458588">::::::::::: </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="169" fill="#83a598">:::::::::::::                 </tspan><tspan fill="#458588">:::::::::::::</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="182" fill="#83a598"> ::::::::::: </tspan><tspan fill="#458588">..              :::::</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="195" fill="#83a598">     .::::: </tspan><tspan fill="#458588">.:::            :::::</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="208" fill="#83a598">    .:::::  </tspan><tspan fill="#458588">:::::          '''''    </tspan><tspan fill="#83a598">.....</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="221" fill="#83a598">    :::::   </tspan><tspan fill="#458588">':::::.  </tspan><tspan fill="#83a598">......:::::::::::::'</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="234" fill="#83a598">     :::     </tspan><tspan fill="#458588">::::::. </tspan><tspan fill="#83a598">':::::::::::::::::'</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="247" fill="#458588">            .:::::::: </tspan><tspan fill="#83a598">'::::::::::</tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="260" fill="#458588">           .::::''::::.     </tspan><tspan fill="#83a598">'::::. </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="273" fill="#458588">          .::::'   ::::.     </tspan><tspan fill="#83a598">'::::.  </tspan></text>
-<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="286" fill="#458588">         .::::      ::::      </tspan><tspan fill="#83a598">'::::.  </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="52" fill="#7aa2f7">          ::::.    </tspan><tspan fill="#7dcfff">':::::     ::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="65" fill="#7aa2f7">          ':::::    </tspan><tspan fill="#7dcfff">':::::.  ::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="78" fill="#7aa2f7">            :::::     </tspan><tspan fill="#7dcfff">'::::.::::: </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="91" fill="#7aa2f7">      .......:::::..... </tspan><tspan fill="#7dcfff">::::::::  </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="104" fill="#7aa2f7">     ::::::::::::::::::. </tspan><tspan fill="#7dcfff">::::::    </tspan><tspan fill="#7aa2f7">::::.</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="117" fill="#7aa2f7">    ::::::::::::::::::::: </tspan><tspan fill="#7dcfff">:::::.  </tspan><tspan fill="#7aa2f7">.::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="130" fill="#7dcfff">           .....           ::::' </tspan><tspan fill="#7aa2f7">:::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="143" fill="#7dcfff">          :::::            '::' </tspan><tspan fill="#7aa2f7">:::::' </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="156" fill="#7dcfff"> ........:::::               ' </tspan><tspan fill="#7aa2f7">::::::::::: </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="169" fill="#7dcfff">:::::::::::::                 </tspan><tspan fill="#7aa2f7">:::::::::::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="182" fill="#7dcfff"> ::::::::::: </tspan><tspan fill="#7aa2f7">..              :::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="195" fill="#7dcfff">     .::::: </tspan><tspan fill="#7aa2f7">.:::            :::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="208" fill="#7dcfff">    .:::::  </tspan><tspan fill="#7aa2f7">:::::          '''''    </tspan><tspan fill="#7dcfff">.....</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="221" fill="#7dcfff">    :::::   </tspan><tspan fill="#7aa2f7">':::::.  </tspan><tspan fill="#7dcfff">......:::::::::::::'</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="234" fill="#7dcfff">     :::     </tspan><tspan fill="#7aa2f7">::::::. </tspan><tspan fill="#7dcfff">':::::::::::::::::'</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="247" fill="#7aa2f7">            .:::::::: </tspan><tspan fill="#7dcfff">'::::::::::</tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="260" fill="#7aa2f7">           .::::''::::.     </tspan><tspan fill="#7dcfff">'::::. </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="273" fill="#7aa2f7">          .::::'   ::::.     </tspan><tspan fill="#7dcfff">'::::.  </tspan></text>
+<text font-family="'Courier New',Courier,monospace" font-size="10" xml:space="preserve"><tspan x="16" y="286" fill="#7aa2f7">         .::::      ::::      </tspan><tspan fill="#7dcfff">'::::.  </tspan></text>
 
-<text y="52" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold"><tspan x="310" fill="#b8bb26">randoneering</tspan><tspan fill="#ebdbb2">@</tspan><tspan fill="#83a598">nixos</tspan></text>
-<text x="310" y="73" font-family="'Courier New',Courier,monospace" font-size="14" fill="#504945">──────────────────</text>
-<text y="94"  font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">OS</tspan><tspan x="386" fill="#ebdbb2">NixOS</tspan></text>
-<text y="123" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Role</tspan><tspan x="386" fill="#ebdbb2">Founding Randoneer</tspan></text>
-<text y="152" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Company</tspan><tspan x="386" fill="#ebdbb2">Randoneering, LLC</tspan></text>
-<text y="181" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">nixpkgs</tspan><tspan x="386" fill="#ebdbb2">maintainer</tspan></text>
-<text y="210" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Editor</tspan><tspan x="386" fill="#ebdbb2">neovim</tspan></text>
-<text y="239" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Terminal</tspan><tspan x="386" fill="#ebdbb2">kitty</tspan></text>
-<text y="268" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#fabd2f">Agents</tspan><tspan x="386" fill="#ebdbb2">pi-agent</tspan></text>
+<text y="52" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="bold"><tspan x="310" fill="#9ece6a">randoneering</tspan><tspan fill="#c0caf5">@</tspan><tspan fill="#7dcfff">nixos</tspan></text>
+<text x="310" y="73" font-family="'Courier New',Courier,monospace" font-size="14" fill="#565f89">──────────────────</text>
+<text y="94"  font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#e0af68">OS</tspan><tspan x="386" fill="#c0caf5">NixOS</tspan></text>
+<text y="123" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#e0af68">Role</tspan><tspan x="386" fill="#c0caf5">Founding Randoneer</tspan></text>
+<text y="152" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#e0af68">Company</tspan><tspan x="386" fill="#c0caf5">Randoneering, LLC</tspan></text>
+<text y="181" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#e0af68">nixpkgs</tspan><tspan x="386" fill="#c0caf5">maintainer</tspan></text>
+<text y="210" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#e0af68">Editor</tspan><tspan x="386" fill="#c0caf5">neovim</tspan></text>
+<text y="239" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#e0af68">Terminal</tspan><tspan x="386" fill="#c0caf5">kitty</tspan></text>
+<text y="268" font-family="'Courier New',Courier,monospace" font-size="14"><tspan x="310" fill="#e0af68">Agents</tspan><tspan x="386" fill="#c0caf5">pi-agent · opencode</tspan></text>
 
-<rect x="310" y="284" width="14" height="14" rx="2" fill="#cc241d"/>
-<rect x="328" y="284" width="14" height="14" rx="2" fill="#98971a"/>
-<rect x="346" y="284" width="14" height="14" rx="2" fill="#d79921"/>
-<rect x="364" y="284" width="14" height="14" rx="2" fill="#458588"/>
-<rect x="382" y="284" width="14" height="14" rx="2" fill="#b16286"/>
-<rect x="400" y="284" width="14" height="14" rx="2" fill="#689d6a"/>
-<rect x="418" y="284" width="14" height="14" rx="2" fill="#d65d0e"/>
-<rect x="436" y="284" width="14" height="14" rx="2" fill="#a89984"/>
-<rect x="310" y="302" width="14" height="14" rx="2" fill="#fb4934"/>
-<rect x="328" y="302" width="14" height="14" rx="2" fill="#b8bb26"/>
-<rect x="346" y="302" width="14" height="14" rx="2" fill="#fabd2f"/>
-<rect x="364" y="302" width="14" height="14" rx="2" fill="#83a598"/>
-<rect x="382" y="302" width="14" height="14" rx="2" fill="#d3869b"/>
-<rect x="400" y="302" width="14" height="14" rx="2" fill="#8ec07c"/>
-<rect x="418" y="302" width="14" height="14" rx="2" fill="#fe8019"/>
-<rect x="436" y="302" width="14" height="14" rx="2" fill="#ebdbb2"/>
+<rect x="310" y="284" width="14" height="14" rx="2" fill="#f7768e"/>
+<rect x="328" y="284" width="14" height="14" rx="2" fill="#9ece6a"/>
+<rect x="346" y="284" width="14" height="14" rx="2" fill="#e0af68"/>
+<rect x="364" y="284" width="14" height="14" rx="2" fill="#7aa2f7"/>
+<rect x="382" y="284" width="14" height="14" rx="2" fill="#bb9af7"/>
+<rect x="400" y="284" width="14" height="14" rx="2" fill="#73daca"/>
+<rect x="418" y="284" width="14" height="14" rx="2" fill="#ff9e64"/>
+<rect x="436" y="284" width="14" height="14" rx="2" fill="#a9b1d6"/>
+<rect x="310" y="302" width="14" height="14" rx="2" fill="#db4b4b"/>
+<rect x="328" y="302" width="14" height="14" rx="2" fill="#9ece6a"/>
+<rect x="346" y="302" width="14" height="14" rx="2" fill="#e0af68"/>
+<rect x="364" y="302" width="14" height="14" rx="2" fill="#7dcfff"/>
+<rect x="382" y="302" width="14" height="14" rx="2" fill="#9d7cd8"/>
+<rect x="400" y="302" width="14" height="14" rx="2" fill="#73daca"/>
+<rect x="418" y="302" width="14" height="14" rx="2" fill="#ff9e64"/>
+<rect x="436" y="302" width="14" height="14" rx="2" fill="#c0caf5"/>
 </svg>
