@@ -48,6 +48,8 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 ---
 
 ### Writing
+- [The S76 Laptop Review No One Asked For](https://blog.randoneering.dev/blog/3mq66jfp63x23)
+- [A Month Without Frontier Models](https://blog.randoneering.dev/blog/3mpd2raacd323)
 - [pgFirstAid - hits 500 stars](https://randoneering.tech/blog/pgfirstaid/500stars)
 - [The World We Live In](https://randoneering.tech/blog/random/theworldwelivein)
 - [pgFirstAid - Milestone 2 and 3!](https://randoneering.tech/blog/pgfirstaid/pgfirstaid_m3)
