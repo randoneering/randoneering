@@ -20,8 +20,9 @@ Looking for someone to build out your infrastructure --->[randoneering.tech](htt
 A PostgreSQL function that returns a prioritized list of what's actually wrong with your database. No agent to install, no SaaS to sign up for. Inspired by SQL Server's FirstResponderKit, built for the rest of us.
 
 [→ randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid)
+
 [Website](https://pgfirstaid.com)
----
+
 
 ### Notables
 
