@@ -1,10 +1,17 @@
 ![neofetch](assets/neofetch.svg)
 
+----
+# Attention!
+**I will be mostly working out of a privately hosted Forgejo instance and [tangled](https://tangled.org/justin.randoneering.dev) for any new projects. I will continue to maintain pgFirstAid, be a core team member of [kaneo](https://github.com/usekaneo/kaneo), and maintainer of current/future nixpkgs. If you wish to follow my work, I would encourage you to follow me over at tangled!**
+
+---
+
 I run a fractional infrastructure engineering consultancy for startups and small businesses. 
 - 🐘 PostgreSQL is life
 - 🏳️‍🌈 Ally
 - Building infrastructure automation, random terminal tools, and occasionally staring at a terminal config for two hours to get the colors exactly right is my bread and butter
 - Also open source, because someone has to
+
 
 
 Looking for someone to build out your infrastructure --->[randoneering.tech](https://randoneering.tech)
@@ -21,7 +28,7 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 
 [→ randoneering/pgFirstAid](https://github.com/randoneering/pgFirstAid)
 
-[Website](https://pgfirstaid.com)
+[→ website](https://pgfirstaid.com)
 
 
 ### Notables
