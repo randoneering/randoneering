@@ -1,4 +1,3 @@
-![neofetch](assets/neofetch.svg)
 
 ----
 # Attention!
