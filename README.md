@@ -12,8 +12,6 @@ I run a fractional infrastructure engineering consultancy for startups and small
 - Building infrastructure automation, random terminal tools, and occasionally staring at a terminal config for two hours to get the colors exactly right is my bread and butter
 - Also open source, because someone has to
 
-
-
 Looking for someone to build out your infrastructure --->[randoneering.tech](https://randoneering.tech)
 
 ---
@@ -33,8 +31,9 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 
 ### Notables
 
-- **nixpkgs maintainer** — contributing to the world's largest Linux package repository (whether it wants my help or not)
-- **SCALE 23x speaker** — spoke on "Five Stages of Grieving: Databases in Infrastructure as Code" and "pgFirstAid"
+- **nixpkgs maintainer** - contributing to the world's largest Linux package repository (whether it wants my help or not)
+- **SCALE 23x speaker** - spoke on "Five Stages of Grieving: Databases in Infrastructure as Code" and "pgFirstAid"
+- **Kaneo Core Team Member** — help maintain the infrastructure for Kaneo cloud, deployment methods, and anything else I can do to help
 - **Coder Radio 647** — guest on Coder Radio talking about pgFirstAid → [coder](https://coder.show/647)
 - **Hacker News** — pgFirstAid hit the front page → [hn](https://news.ycombinator.com/item?id=45944951)
 - **TLDR newsletter** — pgFirstAid was mentioned in the TLDR newsletter → [tldr](https://tldr.tech/data/2025-11-20)
