@@ -1,10 +1,7 @@
 ![neofetch](assets/neofetch.svg)
 
 ----
-# Attention!
-**I will be mostly working out of a privately hosted Forgejo instance and [tangled](https://tangled.org/justin.randoneering.dev) for any new projects. I will continue to maintain pgFirstAid, be a core team member of [kaneo](https://github.com/usekaneo/kaneo), and maintainer of current/future nixpkgs. If you wish to follow my work, I would encourage you to follow me over at tangled!**
 
----
 
 I run a fractional infrastructure engineering consultancy for startups and small businesses. 
 - 🐘 PostgreSQL is life
