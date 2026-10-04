@@ -15,11 +15,23 @@ I run a fractional infrastructure engineering consultancy for startups and small
 Looking for someone to build out your infrastructure --->[randoneering.tech](https://randoneering.tech)
 
 ---
+### Kaneo
+
+[![GitHub Stars](https://img.shields.io/github/stars/usekaneo/kaneo?style=flat-square&color=a6e3a1&labelColor=1e1e2e)](https://github.com/usekaneo/kaneo)
+[![License](https://img.shields.io/github/license/usekaneo/kaneo?style=flat-square&color=89b4fa&labelColor=1e1e2e)](https://github.com/usekaneo/kaneo/blob/main/LICENSE)
+
+I'm a core team member of [Kaneo](https://kaneo.app), an open source project management tool that stays out of your way. I keep the cloud infrastructure running, help with deployment, and chip in wherever else the team needs a hand.
+
+[→ usekaneo/kaneo](https://github.com/usekaneo/kaneo)
+
+[→ kaneo.app](https://kaneo.app)
+
+
 ### pgFirstAid
 
-[![GitHub Stars](https://img.shields.io/github/stars/randoneering/pgFirstAid?style=flat-square&color=b8bb26&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
-[![License](https://img.shields.io/github/license/randoneering/pgFirstAid?style=flat-square&color=83a598&labelColor=282828)](https://github.com/randoneering/pgFirstAid/blob/main/LICENSE)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15--18-458588?style=flat-square&labelColor=282828)](https://github.com/randoneering/pgFirstAid)
+[![GitHub Stars](https://img.shields.io/github/stars/randoneering/pgFirstAid?style=flat-square&color=a6e3a1&labelColor=1e1e2e)](https://github.com/randoneering/pgFirstAid)
+[![License](https://img.shields.io/github/license/randoneering/pgFirstAid?style=flat-square&color=89b4fa&labelColor=1e1e2e)](https://github.com/randoneering/pgFirstAid/blob/main/LICENSE)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15--18-74c7ec?style=flat-square&labelColor=1e1e2e)](https://github.com/randoneering/pgFirstAid)
 
 
 A PostgreSQL function that returns a prioritized list of what's actually wrong with your database. No agent to install, no SaaS to sign up for. Inspired by SQL Server's FirstResponderKit, built for the rest of us.
@@ -29,28 +41,36 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 [→ website](https://pgfirstaid.com)
 
 
+### nixpkgs maintainer
+
+I keep a handful of packages up to date in [nixpkgs](https://github.com/NixOS/nixpkgs):
+
+- [silo](https://search.nixos.org/packages?query=silo)
+- [neon-cli](https://search.nixos.org/packages?query=neon-cli) (still in PR)
+- [fresh-editor](https://search.nixos.org/packages?query=fresh-editor)
+- [atuin-desktop](https://search.nixos.org/packages?query=atuin-desktop) (now archived)
+
+
 ### Notables
 
-- **nixpkgs maintainer** - contributing to the world's largest Linux package repository (whether it wants my help or not)
 - **SCALE 23x speaker** - spoke on "Five Stages of Grieving: Databases in Infrastructure as Code" and "pgFirstAid"
-- **Kaneo Core Team Member** — help maintain the infrastructure for Kaneo cloud, deployment methods, and anything else I can do to help
-- **Coder Radio 647** — guest on Coder Radio talking about pgFirstAid → [coder](https://coder.show/647)
-- **Hacker News** — pgFirstAid hit the front page → [hn](https://news.ycombinator.com/item?id=45944951)
-- **TLDR newsletter** — pgFirstAid was mentioned in the TLDR newsletter → [tldr](https://tldr.tech/data/2025-11-20)
-- **Randoneering, LLC** — fractional infrastructure engineering consultancy out of the Gem State → [randoneering.tech](https://randoneering.tech)
+- **Coder Radio 647** - guest on Coder Radio talking about pgFirstAid → [coder](https://coder.show/647)
+- **Hacker News** - pgFirstAid hit the front page → [hn](https://news.ycombinator.com/item?id=45944951)
+- **TLDR newsletter** - pgFirstAid was mentioned in the TLDR newsletter → [tldr](https://tldr.tech/data/2025-11-20)
+- **Randoneering, LLC** - fractional infrastructure engineering consultancy out of the Gem State → [randoneering.tech](https://randoneering.tech)
 
 ---
 
 ### Stack
- 
-![Linux](https://img.shields.io/badge/Linux-ebdbb2?style=flat-square&logo=linux&logoColor=1d2021&labelColor=ebdbb2)
-![NixOS](https://img.shields.io/badge/NixOS-b16286?style=flat-square&logo=nixos&logoColor=ebdbb2&labelColor=282828)
-![Python](https://img.shields.io/badge/Python-fabd2f?style=flat-square&logo=python&logoColor=282828&labelColor=fabd2f)
-![Docker](https://img.shields.io/badge/Docker-83a598?style=flat-square&logo=docker&logoColor=ebdbb2&labelColor=282828)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-458588?style=flat-square&logo=kubernetes&logoColor=ebdbb2&labelColor=282828)
-![OpenTofu](https://img.shields.io/badge/OpenTofu-d65d0e?style=flat-square&logo=opentofu&logoColor=ebdbb2&labelColor=282828)
-![Ansible](https://img.shields.io/badge/Ansible-cc241d?style=flat-square&logo=ansible&logoColor=ebdbb2&labelColor=282828)
- 
+
+![Linux](https://img.shields.io/badge/Linux-cdd6f4?style=flat-square&logo=linux&logoColor=1e1e2e&labelColor=cdd6f4)
+![NixOS](https://img.shields.io/badge/NixOS-cba6f7?style=flat-square&logo=nixos&logoColor=cdd6f4&labelColor=1e1e2e)
+![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e&labelColor=f9e2af)
+![Docker](https://img.shields.io/badge/Docker-89b4fa?style=flat-square&logo=docker&logoColor=cdd6f4&labelColor=1e1e2e)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-74c7ec?style=flat-square&logo=kubernetes&logoColor=cdd6f4&labelColor=1e1e2e)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-fab387?style=flat-square&logo=opentofu&logoColor=cdd6f4&labelColor=1e1e2e)
+![Ansible](https://img.shields.io/badge/Ansible-f38ba8?style=flat-square&logo=ansible&logoColor=cdd6f4&labelColor=1e1e2e)
+
 
 ---
 
