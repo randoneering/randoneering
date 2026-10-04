@@ -2,7 +2,6 @@
 
 ----
 
-
 I run a fractional infrastructure engineering consultancy for startups and small businesses. 
 - 🐘 PostgreSQL is life
 - 🏳️‍🌈 Ally
@@ -63,6 +62,7 @@ I keep a handful of packages up to date in [nixpkgs](https://github.com/NixOS/ni
 ![Linux](https://img.shields.io/badge/Linux-cdd6f4?style=flat-square&logo=linux&logoColor=1e1e2e&labelColor=cdd6f4)
 ![NixOS](https://img.shields.io/badge/NixOS-cba6f7?style=flat-square&logo=nixos&logoColor=cdd6f4&labelColor=1e1e2e)
 ![Python](https://img.shields.io/badge/Python-f9e2af?style=flat-square&logo=python&logoColor=1e1e2e&labelColor=f9e2af)
+![Go](https://img.shields.io/badge/Go-94e2d5?style=flat-square&logo=go&logoColor=1e1e2e&labelColor=94e2d5)
 ![Docker](https://img.shields.io/badge/Docker-89b4fa?style=flat-square&logo=docker&logoColor=cdd6f4&labelColor=1e1e2e)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-74c7ec?style=flat-square&logo=kubernetes&logoColor=cdd6f4&labelColor=1e1e2e)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-fab387?style=flat-square&logo=opentofu&logoColor=cdd6f4&labelColor=1e1e2e)
