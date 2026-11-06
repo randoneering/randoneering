@@ -37,6 +37,25 @@ A PostgreSQL function that returns a prioritized list of what's actually wrong w
 [→ website](https://pgfirstaid.com)
 
 
+### mellon
+
+[![GitHub Stars](https://img.shields.io/github/stars/randoneering/mellon?style=flat-square&color=a6e3a1&labelColor=1e1e2e)](https://github.com/randoneering/mellon)
+[![License](https://img.shields.io/github/license/randoneering/mellon?style=flat-square&color=89b4fa&labelColor=1e1e2e)](https://github.com/randoneering/mellon/blob/main/LICENSE)
+
+A GitHub Action that reviews new issue and pull request descriptions for AI-generated text.
+AI-assisted code is welcome, but contributors should describe their work in their own words.
+
+[→ randoneering/mellon](https://github.com/randoneering/mellon)
+
+### pi-provider-neon-ai-gateway
+
+[![GitHub Stars](https://img.shields.io/github/stars/randoneering/pi-provider-neon-ai-gateway?style=flat-square&color=a6e3a1&labelColor=1e1e2e)](https://github.com/randoneering/pi-provider-neon-ai-gateway)
+[![License](https://img.shields.io/github/license/randoneering/pi-provider-neon-ai-gateway?style=flat-square&color=89b4fa&labelColor=1e1e2e)](https://github.com/randoneering/pi-provider-neon-ai-gateway/blob/main/LICENSE)
+
+A Pi extension that adds Neon AI Gateway as a model provider.
+
+[→ randoneering/pi-provider-neon-ai-gateway](https://github.com/randoneering/pi-provider-neon-ai-gateway)
+
 ### nixpkgs maintainer
 
 I keep a handful of packages up to date in [nixpkgs](https://github.com/NixOS/nixpkgs):
